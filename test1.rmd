@@ -1,0 +1,17 @@
+---
+title: "Bragg Bird Survey Data Analysis"
+author: "Will Fields"
+date: "November 1, 2018"
+output: word_document
+---
+# Overview
+
+To characterize the response of bird communities in the post-breeding and migration period, we will fit occupancy models to data collected in 2017 and 2018.  This document provides an overview of the data analysis through a few stages: a simple occupancy model, an occupancy model with covariates on the ecological process, and an occupancy model with covariates on the ecological process and random effects on the observation process.  
+
+# A Simple Occupancy Model
+
+
+
+Ecological Process: _z_~_i_~ ~ Bernoulli($\psi$)
+Observation Process: _y~_i,j_~_ ~ | _z_~_i_~ ~ Bernoulli(_z~i~p_) 
+

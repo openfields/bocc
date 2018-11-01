@@ -37,3 +37,39 @@ str(win.data<- list(y=y, M=nrow(y), J=ncol(y)))
 
 # specify model
 sink("model.txt")
+cat("
+    model {
+    # priors
+      psi ~ dunif(0, 1)
+      p ~ dunif(0, 1)
+
+    # likelihood
+    for (i in 1:M){
+      z[i] ~ dbern(psi)
+      for(j in 1:J){
+        y[i,j] ~ dbern(z[i]*p)
+      }
+    }
+
+
+    }
+    
+    ", fill=TRUE)
+sink()
+
+# initial values
+zst <- apply(y, 1, max)
+inits <- function(){list(z=zst)}
+
+# params monitored
+params <- c("psi", "p")
+
+# mcmc settings
+ni <- 5000 ; nt <- 1 ; nb <- 1000 ; nc <- 3
+
+# call jags, summarize posteriors
+library(jagsUI)
+fm2 <- jags(win.data, inits, params, "model.txt", n.chains = nc, n.thin = nt, n.iter = ni, n.burnin = nb, parallel = TRUE)
+print(fm2, digits = 3)
+
+

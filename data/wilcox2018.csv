@@ -1,0 +1,958 @@
+Date,Observer,Route,Point ,Start_Time,Species,M0_1,M1_2,M2_3,M3_4,M4_5,D30,D30_60,D60_90,D90,FlyOver,Habitat,TSBurn,Noise,Temp,CloudCvr,Wind,Rain,Comments
+8/21/2018,MMW,C,82,0635,AMCR,1,1,1,,,,,,1,,upland savanna,>2 years since burn,"minor insect noise, crickets",77,70,0,0,
+8/21/2018,MMW,C,82,0635,WBNU,1,,,,,,,,1,,upland savanna,>2 years since burn,"minor insect noise, crickets",77,70,0,0,
+8/21/2018,MMW,C,82,0635,EABL,1,,1,,,,,1,,,upland savanna,>2 years since burn,"minor insect noise, crickets",77,70,0,0,
+8/21/2018,MMW,C,82,0635,AMCR,,1,1,,,,,,1,,upland savanna,>2 years since burn,"minor insect noise, crickets",77,70,0,0,
+8/21/2018,MMW,C,82,0635,PIWA,,1,1,,,,1,,,,upland savanna,>2 years since burn,"minor insect noise, crickets",77,70,0,0,
+8/21/2018,MMW,C,82,0635,CARW,,,,1,,,,1,,,upland savanna,>2 years since burn,"minor insect noise, crickets",77,70,0,0,
+8/21/2018,MMW,C,82,0635,BGGN,,,,1,1,,1,,,,upland savanna,>2 years since burn,"minor insect noise, crickets",77,70,0,0,
+8/21/2018,MMW,C,82,0635,WBNU,,,,1,1,1,,,,,upland savanna,>2 years since burn,"minor insect noise, crickets",77,70,0,0,
+8/21/2018,MMW,C,82,0635,EATO,,,,,1,,1,,,,upland savanna,>2 years since burn,"minor insect noise, crickets",77,70,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,SMC,C,82,0635,AMCR,1,1,,,,,,1,,,upland savanna,>2 years since burn,"minor insect noise, crickets",77,70,0,0,
+8/21/2018,SMC,C,82,0635,WBNU,1,,,1,,,1,,,,upland savanna,>2 years since burn,"minor insect noise, crickets",77,70,0,0,
+8/21/2018,SMC,C,82,0635,NOCA,,1,,,,,,,,,upland savanna,>2 years since burn,"minor insect noise, crickets",77,70,0,0,no distance written
+8/21/2018,SMC,C,82,0635,CARW,,,1,,,,1,,,,upland savanna,>2 years since burn,"minor insect noise, crickets",77,70,0,0,
+8/21/2018,SMC,C,82,0635,EATO,,,,,1,,,1,,,upland savanna,>2 years since burn,"minor insect noise, crickets",77,70,0,0,
+8/21/2018,SMC,C,82,0635,WBNU,,,,1,,,1,,,,upland savanna,>2 years since burn,"minor insect noise, crickets",77,70,0,0,
+8/21/2018,SMC,C,82,0635,NOCA,,1,,,,,,1,,,upland savanna,>2 years since burn,"minor insect noise, crickets",77,70,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,MMW,C,296,0654,BLJA,1,1,1,1,1,,,,1,,upland savanna,"N side burnt w/in 3 months, S. side > 1 year ago",minor road noise,77,70,0,0,
+8/21/2018,MMW,C,296,0654,BGGN,1,,,,,,1,,,,upland savanna,"N side burnt w/in 3 months, S. side > 1 year ago",minor road noise,77,70,0,0,
+8/21/2018,MMW,C,296,0654,EATO,,1,,,1,,,1,,,upland savanna,"N side burnt w/in 3 months, S. side > 1 year ago",minor road noise,77,70,0,0,
+8/21/2018,MMW,C,296,0654,SUTA,,1,1,1,1,,,1,,,upland savanna,"N side burnt w/in 3 months, S. side > 1 year ago",minor road noise,77,70,0,0,
+8/21/2018,MMW,C,296,0654,RHWO,,,1,1,1,,,,1,,upland savanna,"N side burnt w/in 3 months, S. side > 1 year ago",minor road noise,77,70,0,0,
+8/21/2018,MMW,C,296,0654,AMGO,,,,1,,,,,,1,upland savanna,"N side burnt w/in 3 months, S. side > 1 year ago",minor road noise,77,70,0,0,
+8/21/2018,MMW,C,296,0654,BLJA,,,,,1,,,,1,,upland savanna,"N side burnt w/in 3 months, S. side > 1 year ago",minor road noise,77,70,0,0,
+8/21/2018,MMW,C,296,0654,BLJA,,,,,1,,,,1,,upland savanna,"N side burnt w/in 3 months, S. side > 1 year ago",minor road noise,77,70,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,SMC,C,296,0654,RHWO,1,,,,,,,,1,,upland savanna,"N side burnt w/in 3 months, S. side > 1 year ago",minor road noise,77,70,0,0,
+8/21/2018,SMC,C,296,0654,BGGN,1,,,,,,1,,,,upland savanna,"N side burnt w/in 3 months, S. side > 1 year ago",minor road noise,77,70,0,0,
+8/21/2018,SMC,C,296,0654,BLJA,,1,1,,1,,,,1,,upland savanna,"N side burnt w/in 3 months, S. side > 1 year ago",minor road noise,77,70,0,0,
+8/21/2018,SMC,C,296,0654,RHWO,,1,1,1,,,,,1,,upland savanna,"N side burnt w/in 3 months, S. side > 1 year ago",minor road noise,77,70,0,0,
+8/21/2018,SMC,C,296,0654,PIWO,,1,,,,,,,1,,upland savanna,"N side burnt w/in 3 months, S. side > 1 year ago",minor road noise,77,70,0,0,
+8/21/2018,SMC,C,296,0654,SUTA,,,1,1,1,,,1,,,upland savanna,"N side burnt w/in 3 months, S. side > 1 year ago",minor road noise,77,70,0,0,
+8/21/2018,SMC,C,296,0654,AMGO,,,,1,,,,1,,,upland savanna,"N side burnt w/in 3 months, S. side > 1 year ago",minor road noise,77,70,0,0,
+8/21/2018,SMC,C,296,0654,BLJA,,,,,1,,,,1,,upland savanna,"N side burnt w/in 3 months, S. side > 1 year ago",minor road noise,77,70,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,MMW,C,85,0707,AMCR,1,,,,,,,,1,,upland savanna,"North side > 2 yrs, S. side w/in 3 months",minor road noise,79,50,0-2,0,
+8/21/2018,MMW,C,85,0707,BHNU,1,1,1,1,1,1,,,,,upland savanna,"North side > 2 yrs, S. side w/in 3 months",minor road noise,79,50,0-2,0,
+8/21/2018,MMW,C,85,0707,BHNU,1,1,,1,,1,,,,,upland savanna,"North side > 2 yrs, S. side w/in 3 months",minor road noise,79,50,0-2,0,
+8/21/2018,MMW,C,85,0707,BHNU,1,1,,1,,1,,,,,upland savanna,"North side > 2 yrs, S. side w/in 3 months",minor road noise,79,50,0-2,0,
+8/21/2018,MMW,C,85,0707,NOFL,1,,,,,,1,,,,upland savanna,"North side > 2 yrs, S. side w/in 3 months",minor road noise,79,50,0-2,0,
+8/21/2018,MMW,C,85,0707,NOFL,,1,,,,,1,,,,upland savanna,"North side > 2 yrs, S. side w/in 3 months",minor road noise,79,50,0-2,0,
+8/21/2018,MMW,C,85,0707,RBWO,,1,,,,,,1,,,upland savanna,"North side > 2 yrs, S. side w/in 3 months",minor road noise,79,50,0-2,0,
+8/21/2018,MMW,C,85,0707,BLJA,,1,1,1,,,,,1,,upland savanna,"North side > 2 yrs, S. side w/in 3 months",minor road noise,79,50,0-2,0,
+8/21/2018,MMW,C,85,0707,BGGN,,,1,1,1,,1,,,,upland savanna,"North side > 2 yrs, S. side w/in 3 months",minor road noise,79,50,0-2,0,
+8/21/2018,MMW,C,85,0707,BLJA,,,,1,,,,,1,,upland savanna,"North side > 2 yrs, S. side w/in 3 months",minor road noise,79,50,0-2,0,
+8/21/2018,MMW,C,85,0707,EAWP,,,,,1,,,,1,,upland savanna,"North side > 2 yrs, S. side w/in 3 months",minor road noise,79,50,0-2,0,
+8/21/2018,MMW,C,85,0707,RHWO,,,,,1,,1,,,,upland savanna,"North side > 2 yrs, S. side w/in 3 months",minor road noise,79,50,0-2,0,visual only
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,SMC,C,85,0707,AMCR,1,,,,,,,,1,,upland savanna,"North side > 2 yrs, S. side w/in 3 months",minor road noise,79,50,0-2,0,
+8/21/2018,SMC,C,85,0707,BHNU,1,,,,,,1,,,,upland savanna,"North side > 2 yrs, S. side w/in 3 months",minor road noise,79,50,0-2,0,
+8/21/2018,SMC,C,85,0707,BHNU,1,,,,,,1,,,,upland savanna,"North side > 2 yrs, S. side w/in 3 months",minor road noise,79,50,0-2,0,
+8/21/2018,SMC,C,85,0707,NOFL,,1,,,,,1,,,,upland savanna,"North side > 2 yrs, S. side w/in 3 months",minor road noise,79,50,0-2,0,
+8/21/2018,SMC,C,85,0707,BLJA,,,1,1,1,,,,1,,upland savanna,"North side > 2 yrs, S. side w/in 3 months",minor road noise,79,50,0-2,0,
+8/21/2018,SMC,C,85,0707,NOCA,,,,1,,,1,,,,upland savanna,"North side > 2 yrs, S. side w/in 3 months",minor road noise,79,50,0-2,0,
+8/21/2018,SMC,C,85,0707,BHNU,,,,,1,,,1,,,upland savanna,"North side > 2 yrs, S. side w/in 3 months",minor road noise,79,50,0-2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,MMW,C,183,0739,PIWA,1,1,1,1,,1,,,,,streamhead pocosin,> 3 years,,79,30,0,0,
+8/21/2018,MMW,C,183,0739,WODU,,,1,1,,,,,,1,streamhead pocosin,> 3 years,,79,30,0,0,
+8/21/2018,MMW,C,183,0739,WODU,,,1,1,,,,,,1,streamhead pocosin,> 3 years,,79,30,0,0,
+8/21/2018,MMW,C,183,0739,NOFL,,,,1,,,1,,,,streamhead pocosin,> 3 years,,79,30,0,0,SMC called this HAWO
+8/21/2018,MMW,C,183,0739,EATO,,,,,1,,1,,,,streamhead pocosin,> 3 years,,79,30,0,0,
+8/21/2018,MMW,C,183,0739,WBNU,,,,,1,,1,,,,streamhead pocosin,> 3 years,,79,30,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,SMC,C,183,0739,PIWA,1,1,1,,,1,,,,,streamhead pocosin,> 3 years,,79,30,0,0,
+8/21/2018,SMC,C,183,0739,PIWA,,1,,,,,,,,,streamhead pocosin,> 3 years,,79,30,0,0,no distance written
+8/21/2018,SMC,C,183,0739,WODU,,,1,,,,,,,1,streamhead pocosin,> 3 years,,79,30,0,0,
+8/21/2018,SMC,C,183,0739,WODU,,,1,,,,,,,1,streamhead pocosin,> 3 years,,79,30,0,0,
+8/21/2018,SMC,C,183,0739,HAWO,,,,1,,,1,,,,streamhead pocosin,> 3 years,,79,30,0,0,
+8/21/2018,SMC,C,183,0739,EATO,,,,,1,,,1,,,streamhead pocosin,> 3 years,,79,30,0,0,
+8/21/2018,SMC,C,183,0739,EATO,,,,,1,,,1,,,streamhead pocosin,> 3 years,,79,30,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,MMW,C,1,0752,EAWP,1,1,1,1,1,1,,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,MMW,C,1,0752,BHVI,1,1,1,,,1,,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,MMW,C,1,0752,WBNU,1,,1,1,1,1,,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,MMW,C,1,0752,WBNU,1,,1,1,1,1,,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,MMW,C,1,0752,SUTA,1,1,1,,,1,,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,MMW,C,1,0752,CARW,1,1,,,,1,,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,MMW,C,1,0752,CARW,1,1,,,,1,,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,MMW,C,1,0752,CACH,1,1,1,,1,1,,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,MMW,C,1,0752,BGGN,1,1,1,1,,1,,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,MMW,C,1,0752,CACH,1,1,1,,1,1,,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,MMW,C,1,0752,WEVI,,1,1,,1,1,,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,MMW,C,1,0752,BHNU,,1,,,,1,,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,MMW,C,1,0752,DOWO,,,,1,1,,1,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,MMW,C,1,0752,EATO,,,,1,1,,1,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,MMW,C,1,0752,PIWA,,,,,1,,,1,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,MMW,C,1,0752,EATO,,,,,1,,1,,,,bottomland,> 3 years,,79,50,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,SMC,C,1,0752,BHNU,1,1,1,,,1,,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,SMC,C,1,0752,CARW,1,1,1,,,1,,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,SMC,C,1,0752,YTVI,1,1,1,1,,1,,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,SMC,C,1,0752,WBNU,1,1,1,1,1,1,,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,SMC,C,1,0752,BGGN,1,,1,1,,,1,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,SMC,C,1,0752,SUTA,1,1,1,,,,1,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,SMC,C,1,0752,CACH,1,1,1,1,1,,1,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,SMC,C,1,0752,EAWP,,1,1,1,1,,1,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,SMC,C,1,0752,RHWO,,1,,,,,,1,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,SMC,C,1,0752,BHNU,,1,,,,,1,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,SMC,C,1,0752,ACFL,,,1,,,,,1,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,SMC,C,1,0752,DOWO,,,1,1,,,1,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,SMC,C,1,0752,WEVI,,,,1,1,,1,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,SMC,C,1,0752,EATO,,,,,1,,1,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,SMC,C,1,0752,WBNU,,,,,1,1,,,,,bottomland,> 3 years,,79,50,0,0,
+8/21/2018,SMC,C,1,0752,EATO,,,,,1,,,1,,,bottomland,> 3 years,,79,50,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,MMW,C,297,0806,YTVI,1,1,1,1,,,1,,,,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,
+8/21/2018,MMW,C,297,0806,AMCR,1,,,,,,,,1,,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,
+8/21/2018,MMW,C,297,0806,CACH,1,,1,,,,,1,,,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,
+8/21/2018,MMW,C,297,0806,AMGO,,1,,,,,,,,1,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,
+8/21/2018,MMW,C,297,0806,EATO,,1,,1,1,,1,,,,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,
+8/21/2018,MMW,C,297,0806,EAWP,,1,1,1,1,,,,,,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,"no distance written,   assume 60-90 m like SMC?"
+8/21/2018,MMW,C,297,0806,BGGN,,1,,,,1,,,,,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,
+8/21/2018,MMW,C,297,0806,CARW,,,1,,,,1,,,,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,
+8/21/2018,MMW,C,297,0806,WBNU,,,1,1,,,,1,,,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,
+8/21/2018,MMW,C,297,0806,NOCA,,,,,1,1,,,,,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,SMC,C,297,0806,REVI,1,,,,1,,1,,,,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,
+8/21/2018,SMC,C,297,0806,NOCA,1,1,,1,1,,1,,,,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,
+8/21/2018,SMC,C,297,0806,CACH,1,,1,1,,,1,,,,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,
+8/21/2018,SMC,C,297,0806,REVI,1,,,,,1,,,,,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,
+8/21/2018,SMC,C,297,0806,AMCR,,1,,,,,,,1,,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,
+8/21/2018,SMC,C,297,0806,REVI,,1,,,,,1,,,,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,
+8/21/2018,SMC,C,297,0806,EATO,,1,,1,1,,,1,,,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,
+8/21/2018,SMC,C,297,0806,EAWP,,,1,1,1,,,1,,,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,
+8/21/2018,SMC,C,297,0806,AMGO,,,1,,,,,,,1,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,
+8/21/2018,SMC,C,297,0806,CARW,,,1,1,,,1,,,,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,
+8/21/2018,SMC,C,297,0806,BHNU,,,1,1,,,,1,,,upland savanna,"East > 2 yrs, West < 3 months",,79,60,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,MMW,C,238,0823,,,,,,,,,,,,streamhead pocosin,> 3 years ago,cicada noise loud,79,50,1,0,"no birds heard by MMW. Point upland of stream, more like savannah."
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,SMC,C,238,0823,CARW,,1,,,,,1,,,,streamhead pocosin,> 3 years ago,cicada noise loud,79,50,1,0,"Point upland of stream, more like savannah."
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,MMW,C,235,0840,MODO,1,1,1,1,1,,,1,,,streamhead pocosin,> 3 years,cicadas mild,82,40,1,0,
+8/21/2018,MMW,C,235,0840,AMCR,,1,1,,,,,,1,,streamhead pocosin,> 3 years,cicadas mild,82,40,1,0,
+8/21/2018,MMW,C,235,0840,BHNU,,,,1,,,,1,,,streamhead pocosin,> 3 years,cicadas mild,82,40,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,SMC,C,235,0840,MODO,1,1,1,1,1,,,1,,,streamhead pocosin,> 3 years,cicadas mild,82,40,1,0,
+8/21/2018,SMC,C,235,0840,AMCR,,,1,,1,,,,1,,streamhead pocosin,> 3 years,cicadas mild,82,40,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,MMW,C,37,0851,AMCR,1,1,1,1,1,,,,1,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,MMW,C,37,0851,AMCR,1,,,1,,,,,1,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,MMW,C,37,0851,MODO,1,1,,,,,,1,,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,MMW,C,37,0851,BLJA,1,1,1,1,1,,,,1,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,MMW,C,37,0851,RHWO,1,1,1,1,1,,1,,,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,MMW,C,37,0851,RHWO,1,1,1,1,1,,1,,,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,MMW,C,37,0851,BHNU,1,,,,,,1,,,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,MMW,C,37,0851,BJLA,1,1,,1,1,,,,1,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,MMW,C,37,0851,EATO,,1,,,1,,,1,,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,MMW,C,37,0851,EAWP,,1,,,,,,1,,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,MMW,C,37,0851,BLJA,,,1,1,1,,,1,,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,MMW,C,37,0851,GCFL,,,1,,,,,,1,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,MMW,C,37,0851,PIWA,,,,1,,,1,,,,upland savanna,> 1 year ago,,82,75,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,SMC,C,37,0851,AMCR,1,1,1,1,1,,,,1,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,SMC,C,37,0851,RHWO,1,1,1,1,1,,,,1,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,SMC,C,37,0851,MODO,1,1,,,,,,1,,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,SMC,C,37,0851,RCWO,1,,,,,,,,1,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,SMC,C,37,0851,BLJA,1,1,1,1,1,,,,1,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,SMC,C,37,0851,EATO,1,1,,,,,,1,,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,SMC,C,37,0851,BLJA,,1,1,1,1,,,,1,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,SMC,C,37,0851,BLJA,,1,1,,1,,,,1,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,SMC,C,37,0851,AMCR,,1,,,,,,,1,,upland savanna,> 1 year ago,,82,75,1,0,
+8/21/2018,SMC,C,37,0851,RHWO,,1,1,1,1,,,,1,,upland savanna,> 1 year ago,,82,75,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,MMW,C,98,0900,NOFL,1,1,,1,,,,1,,,upland savanna,2 years since burn,,85,70,1,0,
+8/21/2018,MMW,C,98,0900,AMCR,1,,,,,,,,1,,upland savanna,2 years since burn,,85,70,1,0,
+8/21/2018,MMW,C,98,0900,BLJA,1,1,1,,1,,,1,,,upland savanna,2 years since burn,,85,70,1,0,
+8/21/2018,MMW,C,98,0900,RHWO,,,1,1,1,,,,1,,upland savanna,2 years since burn,,85,70,1,0,
+8/21/2018,MMW,C,98,0900,RHWO,,,1,1,1,,,,1,,upland savanna,2 years since burn,,85,70,1,0,
+8/21/2018,MMW,C,98,0900,PIWA,,,1,,,,1,,,,upland savanna,2 years since burn,,85,70,1,0,
+8/21/2018,MMW,C,98,0900,YBCU,,,1,,,,1,,,,upland savanna,2 years since burn,,85,70,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,SMC,C,98,0900,RHWO,1,1,1,1,1,,,,1,,upland savanna,2 years since burn,,85,70,1,0,
+8/21/2018,SMC,C,98,0900,AMCR,1,,,,,,,,1,,upland savanna,2 years since burn,,85,70,1,0,
+8/21/2018,SMC,C,98,0900,NOFL,1,1,,1,,,1,,,,upland savanna,2 years since burn,,85,70,1,0,
+8/21/2018,SMC,C,98,0900,RHWO,,1,,1,,,,,1,,upland savanna,2 years since burn,,85,70,1,0,
+8/21/2018,SMC,C,98,0900,BLJA,,,1,,,,,,1,,upland savanna,2 years since burn,,85,70,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,MMW,C,9,0916,CARW,1,1,,1,,,,1,,,upland savanna,2 years since burn,very light cicada noise,85,70,2,0,
+8/21/2018,MMW,C,9,0916,CACH,,1,,1,1,,1,,,,upland savanna,2 years since burn,very light cicada noise,85,70,2,0,
+8/21/2018,MMW,C,9,0916,NOCA,,,1,,,,1,,,,upland savanna,2 years since burn,very light cicada noise,85,70,2,0,
+8/21/2018,MMW,C,9,0916,DOWO,,,1,1,1,,1,,,,upland savanna,2 years since burn,very light cicada noise,85,70,2,0,
+8/21/2018,MMW,C,9,0916,CACH,,,,1,1,,1,,,,upland savanna,2 years since burn,very light cicada noise,85,70,2,0,
+8/21/2018,MMW,C,9,0916,REVI,,,,,1,,,1,,,upland savanna,2 years since burn,very light cicada noise,85,70,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,SMC,C,9,0916,EAWP,1,,,,,,,1,,,upland savanna,2 years since burn,very light cicada noise,85,70,2,0,
+8/21/2018,SMC,C,9,0916,BHVI,,1,,1,1,,1,,,,upland savanna,2 years since burn,very light cicada noise,85,70,2,0,
+8/21/2018,SMC,C,9,0916,CACH,,,1,1,1,,,1,,,upland savanna,2 years since burn,very light cicada noise,85,70,2,0,
+8/21/2018,SMC,C,9,0916,NOCA,,,1,,,,,1,,,upland savanna,2 years since burn,very light cicada noise,85,70,2,0,
+8/21/2018,SMC,C,9,0916,DOWO,,,1,,,,,1,,,upland savanna,2 years since burn,very light cicada noise,85,70,2,0,
+8/21/2018,SMC,C,9,0916,NOFL,,,,1,,,,1,,,upland savanna,2 years since burn,very light cicada noise,85,70,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,MMW,C,300,0926,RHWO,,1,,,,,,1,,,upland savanna,> 2 years post burn,light generator noise,85,90,2,0,
+8/21/2018,MMW,C,300,0926,CARW,,,,1,1,,,1,,,upland savanna,> 2 years post burn,light generator noise,85,90,2,0,
+8/21/2018,MMW,C,300,0926,Unknown swallow,,,,,1,,,,,1,upland savanna,> 2 years post burn,light generator noise,85,90,2,0,
+8/21/2018,MMW,C,300,0926,SUTA,,,,,1,,,1,,,upland savanna,> 2 years post burn,light generator noise,85,90,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,SMC,C,300,0926,RHWO,,1,1,1,1,,1,,,,upland savanna,> 2 years post burn,light generator noise,85,90,2,0,quiet trilling
+8/21/2018,SMC,C,300,0926,CARW,,,,1,1,,,,1,,upland savanna,> 2 years post burn,light generator noise,85,90,2,0,
+8/21/2018,SMC,C,300,0926,SUTA,,,,,1,,,,1,,upland savanna,> 2 years post burn,light generator noise,85,90,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,MMW,C,321,0940,RCWO,1,1,1,1,1,1,,,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,MMW,C,321,0940,RHWO,1,,,1,,1,,,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,MMW,C,321,0940,EATO,1,,,,,,1,,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,MMW,C,321,0940,MODO,1,,,,,,1,,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,MMW,C,321,0940,CACH,1,,,,1,1,,,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,MMW,C,321,0940,AMGO,1,,,,,,,,,1,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,MMW,C,321,0940,CACH,1,,,,,1,,,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,MMW,C,321,0940,EAKI,,1,,1,1,,1,,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,MMW,C,321,0940,BLJA,,1,1,1,1,,,1,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,MMW,C,321,0940,RHWO,,1,1,,,1,,,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,MMW,C,321,0940,PIWO,,,1,1,,,,1,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,MMW,C,321,0940,RCWO,,,,,1,,,1,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,also heard before count started as he flew far to this distance
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,SMC,C,321,0940,RCWO,1,1,1,,1,1,,,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,SMC,C,321,0940,NOCA,1,,,,,1,,,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,SMC,C,321,0940,EATO,1,,,,,,,1,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,SMC,C,321,0940,MODO,1,,,,,1,,,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,SMC,C,321,0940,CACH,1,,,,1,1,,,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,SMC,C,321,0940,CACH,1,,,,,1,,,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,SMC,C,321,0940,EABL,1,,,,,1,,,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,SMC,C,321,0940,EAKI,,1,1,1,1,,,1,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,SMC,C,321,0940,RCWO,,1,,,1,,1,,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,SMC,C,321,0940,BLJA,,1,1,1,1,,,1,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,SMC,C,321,0940,PIWO,,,1,1,,,,,1,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,SMC,C,321,0940,PIWO,,,1,,,,,,1,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,SMC,C,321,0940,NOFL,,,1,,,,1,,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+8/21/2018,SMC,C,321,0940,RCWO,,,,,1,,,1,,,upland savanna,> 1 year ago,cicadas,85,100,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,MMW,C,249,1025,EAWP,1,1,1,1,1,,,,1,,streamhead pocosin,uplands burnt ~ 2 years ago,,85,100,1,0,
+8/21/2018,MMW,C,249,1025,EABL,,1,1,1,1,,1,,,,streamhead pocosin,uplands burnt ~ 2 years ago,,85,100,1,0,
+8/21/2018,MMW,C,249,1025,EAKI,,1,1,1,1,,,1,,,streamhead pocosin,uplands burnt ~ 2 years ago,,85,100,1,0,
+8/21/2018,MMW,C,249,1025,EAWP,,,1,1,,,,1,,,streamhead pocosin,uplands burnt ~ 2 years ago,,85,100,1,0,
+8/21/2018,MMW,C,249,1025,AMGO,,,,1,1,,,,,1,streamhead pocosin,uplands burnt ~ 2 years ago,,85,100,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,SMC,C,249,1025,EABL,1,1,1,1,1,,1,,,,streamhead pocosin,uplands burnt ~ 2 years ago,,85,100,1,0,
+8/21/2018,SMC,C,249,1025,EAKI,,1,1,1,,,,,1,,streamhead pocosin,uplands burnt ~ 2 years ago,,85,100,1,0,
+8/21/2018,SMC,C,249,1025,EAWP,,,1,1,1,,,1,,,streamhead pocosin,uplands burnt ~ 2 years ago,,85,100,1,0,
+8/21/2018,SMC,C,249,1025,EAWP,,,1,1,1,,,1,,,streamhead pocosin,uplands burnt ~ 2 years ago,,85,100,1,0,
+8/21/2018,SMC,C,249,1025,AMGO,,,,1,1,,,,,1,streamhead pocosin,uplands burnt ~ 2 years ago,,85,100,1,0,
+8/21/2018,SMC,C,249,1025,BHNU,,,,,1,,,1,,,streamhead pocosin,uplands burnt ~ 2 years ago,,85,100,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,MMW,C,200,1039,AMCR,1,1,,,1,,,,1,,streamhead pocosin,> 2 years ago,,85,100,2,0,moved point a little bit East to be in actual pocosin
+8/21/2018,MMW,C,200,1039,SUTA,,1,,,,,,1,,,streamhead pocosin,> 2 years ago,,85,100,2,0,moved point a little bit East to be in actual pocosin
+8/21/2018,MMW,C,200,1039,EAWP,,,,,1,,,,1,,streamhead pocosin,> 2 years ago,,85,100,2,0,moved point a little bit East to be in actual pocosin
+8/21/2018,MMW,C,200,1039,EATO,,,,,1,,,1,,,streamhead pocosin,> 2 years ago,,85,100,2,0,moved point a little bit East to be in actual pocosin
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,SMC,C,200,1039,EAWP,,,,,1,,,1,,,streamhead pocosin,> 2 years ago,,85,100,2,0,moved point a little bit East to be in actual pocosin
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,MMW,C,189,1053,SUTA,1,1,1,,1,,1,,,,streamhead pocosin,at least 2 years since burn,,85,100,2,0,
+8/21/2018,MMW,C,189,1053,Unknown hawk,1,,,,,,1,,,,streamhead pocosin,at least 2 years since burn,,85,100,2,0,"RSHA or RTHA flush and perch, no sound"
+8/21/2018,MMW,C,189,1053,BGGN,,,1,,,,,1,,,streamhead pocosin,at least 2 years since burn,,85,100,2,0,
+8/21/2018,MMW,C,189,1053,EATO,,,,,1,,,1,,,streamhead pocosin,at least 2 years since burn,,85,100,2,0,
+8/21/2018,MMW,C,189,1053,CACH,,,,,1,,,1,,,streamhead pocosin,at least 2 years since burn,,85,100,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/21/2018,SMC,C,189,1053,SUTA,1,1,,,,,,1,,,streamhead pocosin,at least 2 years since burn,,85,100,2,0,
+8/21/2018,SMC,C,189,1053,EATO,,1,,1,1,,,1,,,streamhead pocosin,at least 2 years since burn,,85,100,2,0,
+8/21/2018,SMC,C,189,1053,EATO,,,,,1,,,1,,,streamhead pocosin,at least 2 years since burn,,85,100,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,MMW,B-1,111,0635,NOCA,1,,1,1,1,1,,,,,bottomland,hasn't burned >5 yrs,minor road noise but not a problem,78,0,0,0,
+8/22/2018,MMW,B-1,111,0635,CARW,1,1,,,1,,,1,,,bottomland,hasn't burned >5 yrs,minor road noise but not a problem,78,0,0,0,
+8/22/2018,MMW,B-1,111,0635,TUTI,1,,,,,,1,,,,bottomland,hasn't burned >5 yrs,minor road noise but not a problem,78,0,0,0,
+8/22/2018,MMW,B-1,111,0635,NOCA,1,1,1,,1,1,,,,,bottomland,hasn't burned >5 yrs,minor road noise but not a problem,78,0,0,0,
+8/22/2018,MMW,B-1,111,0635,NOCA,,,1,1,1,,1,,,,bottomland,hasn't burned >5 yrs,minor road noise but not a problem,78,0,0,0,
+8/22/2018,MMW,B-1,111,0635,CARW,,,,1,1,,1,,,,bottomland,hasn't burned >5 yrs,minor road noise but not a problem,78,0,0,0,
+8/22/2018,MMW,B-1,111,0635,NOCA,,,,1,1,,1,,,,bottomland,hasn't burned >5 yrs,minor road noise but not a problem,78,0,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,SMC,B-1,111,0635,NOCA,1,1,1,1,1,,1,,,,bottomland,hasn't burned >5 yrs,minor road noise but not a problem,78,0,0,0,
+8/22/2018,SMC,B-1,111,0635,CARW,1,,,,1,,,1,,,bottomland,hasn't burned >5 yrs,minor road noise but not a problem,78,0,0,0,
+8/22/2018,SMC,B-1,111,0635,TUTI,1,,,,,,,1,,,bottomland,hasn't burned >5 yrs,minor road noise but not a problem,78,0,0,0,
+8/22/2018,SMC,B-1,111,0635,NOCA,,,1,1,1,,1,,,,bottomland,hasn't burned >5 yrs,minor road noise but not a problem,78,0,0,0,
+8/22/2018,SMC,B-1,111,0635,NOCA,,,1,,1,,1,,,,bottomland,hasn't burned >5 yrs,minor road noise but not a problem,78,0,0,0,
+8/22/2018,SMC,B-1,111,0635,CARW,,,1,1,,,1,,,,bottomland,hasn't burned >5 yrs,minor road noise but not a problem,78,0,0,0,
+8/22/2018,SMC,B-1,111,0635,NOCA,,,,,1,,1,,,,bottomland,hasn't burned >5 yrs,minor road noise but not a problem,78,0,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,MMW,B-1,8,0646,CARW,1,,,1,,1,,,,,bottomland/upland savanna,"> 5 yrs in bottomland, < 3 months in svanna on west side of point",light road noise,77,10,0,0,"bottomland on east of point, savanna on west of firebreak."
+8/22/2018,MMW,B-1,8,0646,CARW,1,,,1,,1,,,,,bottomland/upland savanna,"> 5 yrs in bottomland, < 3 months in svanna on west side of point",light road noise,77,10,0,0,"bottomland on east of point, savanna on west of firebreak."
+8/22/2018,MMW,B-1,8,0646,EAWP,1,,1,1,1,,,1,,,bottomland/upland savanna,"> 5 yrs in bottomland, < 3 months in svanna on west side of point",light road noise,77,10,0,0,"bottomland on east of point, savanna on west of firebreak."
+8/22/2018,MMW,B-1,8,0646,AMCR,1,,1,1,1,,,,1,,bottomland/upland savanna,"> 5 yrs in bottomland, < 3 months in svanna on west side of point",light road noise,77,10,0,0,"bottomland on east of point, savanna on west of firebreak."
+8/22/2018,MMW,B-1,8,0646,DOWO,1,1,1,1,,,1,,,,bottomland/upland savanna,"> 5 yrs in bottomland, < 3 months in svanna on west side of point",light road noise,77,10,0,0,"bottomland on east of point, savanna on west of firebreak."
+8/22/2018,MMW,B-1,8,0646,WBNU,,1,1,1,1,,1,,,,bottomland/upland savanna,"> 5 yrs in bottomland, < 3 months in svanna on west side of point",light road noise,77,10,0,0,"bottomland on east of point, savanna on west of firebreak."
+8/22/2018,MMW,B-1,8,0646,NOCA,,1,1,1,,,1,,,,bottomland/upland savanna,"> 5 yrs in bottomland, < 3 months in svanna on west side of point",light road noise,77,10,0,0,"bottomland on east of point, savanna on west of firebreak."
+8/22/2018,MMW,B-1,8,0646,PIWO,,,1,,,,,,1,,bottomland/upland savanna,"> 5 yrs in bottomland, < 3 months in svanna on west side of point",light road noise,77,10,0,0,"bottomland on east of point, savanna on west of firebreak."
+8/22/2018,MMW,B-1,8,0646,SUTA,,,,,1,,,1,,,bottomland/upland savanna,"> 5 yrs in bottomland, < 3 months in svanna on west side of point",light road noise,77,10,0,0,"bottomland on east of point, savanna on west of firebreak."
+8/22/2018,MMW,B-1,8,0646,AMCR,,,,,1,,,,1,,bottomland/upland savanna,"> 5 yrs in bottomland, < 3 months in svanna on west side of point",light road noise,77,10,0,0,"bottomland on east of point, savanna on west of firebreak."
+8/22/2018,MMW,B-1,8,0646,BHNU,,,,,1,,,1,,,bottomland/upland savanna,"> 5 yrs in bottomland, < 3 months in svanna on west side of point",light road noise,77,10,0,0,"bottomland on east of point, savanna on west of firebreak."
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,SMC,B-1,8,0646,CARW,1,,,1,1,,,1,,,bottomland/upland savanna,"> 5 yrs in bottomland, < 3 months in svanna on west side of point",light road noise,77,10,0,0,"bottomland on east of point, savanna on west of firebreak."
+8/22/2018,SMC,B-1,8,0646,EAWP,1,,1,1,1,,,1,,,bottomland/upland savanna,"> 5 yrs in bottomland, < 3 months in svanna on west side of point",light road noise,77,10,0,0,"bottomland on east of point, savanna on west of firebreak."
+8/22/2018,SMC,B-1,8,0646,EATO,1,1,1,,1,,,1,,,bottomland/upland savanna,"> 5 yrs in bottomland, < 3 months in svanna on west side of point",light road noise,77,10,0,0,"bottomland on east of point, savanna on west of firebreak."
+8/22/2018,SMC,B-1,8,0646,AMCR,1,1,,1,,,,,1,,bottomland/upland savanna,"> 5 yrs in bottomland, < 3 months in svanna on west side of point",light road noise,77,10,0,0,"bottomland on east of point, savanna on west of firebreak."
+8/22/2018,SMC,B-1,8,0646,DOWO,1,1,1,1,,,,1,,,bottomland/upland savanna,"> 5 yrs in bottomland, < 3 months in svanna on west side of point",light road noise,77,10,0,0,"bottomland on east of point, savanna on west of firebreak."
+8/22/2018,SMC,B-1,8,0646,WBNU,,1,1,,1,,,1,,,bottomland/upland savanna,"> 5 yrs in bottomland, < 3 months in svanna on west side of point",light road noise,77,10,0,0,"bottomland on east of point, savanna on west of firebreak."
+8/22/2018,SMC,B-1,8,0646,WBNU,,1,1,1,1,,,1,,,bottomland/upland savanna,"> 5 yrs in bottomland, < 3 months in svanna on west side of point",light road noise,77,10,0,0,"bottomland on east of point, savanna on west of firebreak."
+8/22/2018,SMC,B-1,8,0646,RBWO,,,1,,,,,,1,,bottomland/upland savanna,"> 5 yrs in bottomland, < 3 months in svanna on west side of point",light road noise,77,10,0,0,"bottomland on east of point, savanna on west of firebreak."
+8/22/2018,SMC,B-1,8,0646,PIWO,,,1,,,,,1,,,bottomland/upland savanna,"> 5 yrs in bottomland, < 3 months in svanna on west side of point",light road noise,77,10,0,0,"bottomland on east of point, savanna on west of firebreak."
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,MMW,B-1,301,0706,BLGR,1,1,1,1,1,,1,,,,upland savanna,"North= 2years since fire, South= 1 year since fire",moderate road noise,80,30,0,0,moved point north onto firebreak north of plank road
+8/22/2018,MMW,B-1,301,0706,BLGR,1,1,1,1,1,,1,,,,upland savanna,"North= 2years since fire, South= 1 year since fire",moderate road noise,80,30,0,0,moved point north onto firebreak north of plank road
+8/22/2018,MMW,B-1,301,0706,EAWP,1,,,,,,,,1,,upland savanna,"North= 2years since fire, South= 1 year since fire",moderate road noise,80,30,0,0,moved point north onto firebreak north of plank road
+8/22/2018,MMW,B-1,301,0706,BGGN,,,,,1,1,,,,,upland savanna,"North= 2years since fire, South= 1 year since fire",moderate road noise,80,30,0,0,moved point north onto firebreak north of plank road
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,SMC,B-1,301,0706,BLGR,1,1,1,1,1,,,1,,,upland savanna,"North= 2years since fire, South= 1 year since fire",moderate road noise,80,30,0,0,moved point north onto firebreak north of plank road
+8/22/2018,SMC,B-1,301,0706,BLGR,1,,,,1,,,1,,,upland savanna,"North= 2years since fire, South= 1 year since fire",moderate road noise,80,30,0,0,moved point north onto firebreak north of plank road
+8/22/2018,SMC,B-1,301,0706,BGGN,,,,,1,,1,,,,upland savanna,"North= 2years since fire, South= 1 year since fire",moderate road noise,80,30,0,0,moved point north onto firebreak north of plank road
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,MMW,B-1,298,0718,RHWO,1,1,1,1,1,,,1,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,MMW,B-1,298,0718,EATO,1,,1,1,1,,1,,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,MMW,B-1,298,0718,CARW,1,,1,1,1,,,1,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,MMW,B-1,298,0718,TUTI,1,,,,,,1,,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,MMW,B-1,298,0718,EAWP,1,,,1,1,,,,1,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,MMW,B-1,298,0718,CARW,,1,1,,,,,1,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,MMW,B-1,298,0718,HOWA,1,1,,,1,,1,,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,MMW,B-1,298,0718,RTHU,,,1,,,1,,,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,MMW,B-1,298,0718,RBWO,,,1,,,,,1,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,MMW,B-1,298,0718,EATO,,,1,1,,,,1,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,MMW,B-1,298,0718,WEVI,,,,1,1,,,1,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,MMW,B-1,298,0718,RHWO,,,,1,,,,1,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,MMW,B-1,298,0718,AMCR,,,,1,,,,,1,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,MMW,B-1,298,0718,SUTA,,,,1,,,,1,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,MMW,B-1,298,0718,PIWO,,,,,1,,,1,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,SMC,B-1,298,0718,RHWO,1,1,1,1,,,,,1,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,SMC,B-1,298,0718,RHWO,1,1,,,,,,,1,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,SMC,B-1,298,0718,CARW,1,1,,,,,,1,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,SMC,B-1,298,0718,EATO,1,1,1,1,,,,1,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,SMC,B-1,298,0718,ACFL,1,,,,,,,1,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,SMC,B-1,298,0718,CARW,1,1,1,1,,,1,,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,SMC,B-1,298,0718,EAPH,,1,,,1,,,1,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,SMC,B-1,298,0718,RTHU,,1,,,,1,,,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,SMC,B-1,298,0718,NOCA,,1,,,,,,,1,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,SMC,B-1,298,0718,TUTI,,,1,,,,,,1,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,SMC,B-1,298,0718,MODO,,,1,,,,,,1,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,SMC,B-1,298,0718,EAWP,,,,1,,,,,1,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,SMC,B-1,298,0718,EATO,,,,,1,,,,1,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,SMC,B-1,298,0718,HOWA,,,,,1,,,1,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,SMC,B-1,298,0718,BHNU,,,,,1,,,1,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,SMC,B-1,298,0718,WEVI,,,,,1,,,1,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,SMC,B-1,298,0718,BLGR,,,,,1,,,1,,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+8/22/2018,SMC,B-1,298,0718,PIWO,,,,,1,,,,1,,upland savann,"N= 3 years, S= > 3 years since burn",mild road noise,77,40,0,0,small ephemeral stream with short streamhead pocosin type veg also in area
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,MMW,B-1,76,0732,WBNU,1,1,1,1,1,1,,,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,MMW,B-1,76,0732,HOWA,1,1,1,1,,,1,,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,MMW,B-1,76,0732,NOCA,1,1,1,,,1,,,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,MMW,B-1,76,0732,PIWA,1,1,1,1,1,1,,,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,MMW,B-1,76,0732,DOWO,1,,,,,1,,,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,MMW,B-1,76,0732,EATO,1,1,,,,,1,,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,MMW,B-1,76,0732,WBNU,1,,1,1,1,,1,,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,MMW,B-1,76,0732,EATO,1,,,,,,,1,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,MMW,B-1,76,0732,CARW,,,1,,1,,,1,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,MMW,B-1,76,0732,CACH,,,1,,,,,1,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,MMW,B-1,76,0732,TUTI,,,1,1,1,,,1,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,MMW,B-1,76,0732,TUTI,,,1,1,1,,1,,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,MMW,B-1,76,0732,WEVI,,,,1,,,,1,,,bottomland,> 5 years since burn,,77,80,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,SMC,B-1,76,0732,WBNU,1,1,1,1,1,1,,,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,SMC,B-1,76,0732,HOWA,1,1,1,1,,,1,,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,SMC,B-1,76,0732,PIWA,1,1,1,1,1,,1,,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,SMC,B-1,76,0732,DOWO,1,,,,,1,,,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,SMC,B-1,76,0732,WBNU,1,,1,,1,,1,,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,SMC,B-1,76,0732,WBNU,1,,,,,1,,,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,SMC,B-1,76,0732,EATO,1,1,,,1,,1,,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,SMC,B-1,76,0732,HOWA,,1,,1,1,,,1,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,SMC,B-1,76,0732,NOCA,,,1,,,,,1,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,SMC,B-1,76,0732,TUTI,,,1,1,1,,,1,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,SMC,B-1,76,0732,EATO,,,,1,,,1,,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,SMC,B-1,76,0732,CARW,,,,1,1,,,1,,,bottomland,> 5 years since burn,,77,80,0,0,
+8/22/2018,SMC,B-1,76,0732,REVI,,,,,1,,,1,,,bottomland,> 5 years since burn,,77,80,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,MMW,B-1,25,0747,CARW,1,1,,1,1,,,1,,,bottomland,> 5 years since burn,"babbling brook noise is loud ish,  mild road noise at a distance",80,100,0,0,
+8/22/2018,MMW,B-1,25,0747,BLJA,,1,,,,,,,1,,bottomland,> 5 years since burn,"babbling brook noise is loud ish,  mild road noise at a distance",80,100,0,0,
+8/22/2018,MMW,B-1,25,0747,EAWP,,,1,,,,,,1,,bottomland,> 5 years since burn,"babbling brook noise is loud ish,  mild road noise at a distance",80,100,0,0,
+8/22/2018,MMW,B-1,25,0747,NOCA,,,,1,1,,,1,,,bottomland,> 5 years since burn,"babbling brook noise is loud ish,  mild road noise at a distance",80,100,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,SMC,B-1,25,0747,YBCU,,,,1,,,,,1,,bottomland,> 5 years since burn,"babbling brook noise is loud ish,  mild road noise at a distance",80,100,0,0,
+8/22/2018,SMC,B-1,25,0747,CARW,1,,,1,,,1,,,,bottomland,> 5 years since burn,"babbling brook noise is loud ish,  mild road noise at a distance",80,100,0,0,
+8/22/2018,SMC,B-1,25,0747,CARW,,,,,1,,1,,,,bottomland,> 5 years since burn,"babbling brook noise is loud ish,  mild road noise at a distance",80,100,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,MMW,B-1,73,0804,RHWO,1,1,,1,1,,,1,,,upland savanna,"N=2 years, S=6 months",,81,100,0,0,
+8/22/2018,MMW,B-1,73,0804,RHWO,1,1,,,1,,,1,,,upland savanna,"N=2 years, S=6 months",,81,100,0,0,
+8/22/2018,MMW,B-1,73,0804,AMGO,,1,,,,1,,,,,upland savanna,"N=2 years, S=6 months",,81,100,0,0,
+8/22/2018,MMW,B-1,73,0804,AMCR,,1,1,1,1,,,,1,,upland savanna,"N=2 years, S=6 months",,81,100,0,0,
+8/22/2018,MMW,B-1,73,0804,EAWP,,,,1,,,,,1,,upland savanna,"N=2 years, S=6 months",,81,100,0,0,
+8/22/2018,MMW,B-1,73,0804,RCWO,,,,1,1,,,,1,,upland savanna,"N=2 years, S=6 months",,81,100,0,0,
+8/22/2018,MMW,B-1,73,0804,NOFL,,,,1,1,,,,1,,upland savanna,"N=2 years, S=6 months",,81,100,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,SMC,B-1,73,0804,RHWO,1,1,,,,,,,1,,upland savanna,"N=2 years, S=6 months",,81,100,0,0,
+8/22/2018,SMC,B-1,73,0804,CHSP,1,,1,,,,,1,,,upland savanna,"N=2 years, S=6 months",,81,100,0,0,nestlings?
+8/22/2018,SMC,B-1,73,0804,RHWO,1,1,,,,,,,1,,upland savanna,"N=2 years, S=6 months",,81,100,0,0,
+8/22/2018,SMC,B-1,73,0804,AMCR,,1,1,,,,,,1,,upland savanna,"N=2 years, S=6 months",,81,100,0,0,
+8/22/2018,SMC,B-1,73,0804,AMGO,,,1,,,,,,,1,upland savanna,"N=2 years, S=6 months",,81,100,0,0,
+8/22/2018,SMC,B-1,73,0804,RCWO,,,1,,,,,,1,,upland savanna,"N=2 years, S=6 months",,81,100,0,0,
+8/22/2018,SMC,B-1,73,0804,unknown woodpecker,,,,1,,,1,,,,upland savanna,"N=2 years, S=6 months",,81,100,0,0,maybe NOFL?  Nestlings begging
+8/22/2018,SMC,B-1,73,0804,NOFL,,,,,1,,,1,,,upland savanna,"N=2 years, S=6 months",,81,100,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,MMW,B-1,187,0819,NOCA,1,,,,1,1,,,,,streamhead pocosin,"N= 2years, S=2years since burn",,80,90,1,0,"pocosin on one side, savanna on other side"
+8/22/2018,MMW,B-1,187,0819,CACH,1,1,1,1,,1,,,,,streamhead pocosin,"N= 2years, S=2years since burn",,80,90,1,0,"pocosin on one side, savanna on other side"
+8/22/2018,MMW,B-1,187,0819,CACH,1,1,1,1,,1,,,,,streamhead pocosin,"N= 2years, S=2years since burn",,80,90,1,0,"pocosin on one side, savanna on other side"
+8/22/2018,MMW,B-1,187,0819,NOCA,1,1,1,,,1,,,,,streamhead pocosin,"N= 2years, S=2years since burn",,80,90,1,0,"pocosin on one side, savanna on other side"
+8/22/2018,MMW,B-1,187,0819,PIWA,1,1,1,1,1,1,,,,,streamhead pocosin,"N= 2years, S=2years since burn",,80,90,1,0,"pocosin on one side, savanna on other side"
+8/22/2018,MMW,B-1,187,0819,CACH,,,,1,,1,,,,,streamhead pocosin,"N= 2years, S=2years since burn",,80,90,1,0,"pocosin on one side, savanna on other side"
+8/22/2018,MMW,B-1,187,0819,AMCR,,,,1,1,,,,1,,streamhead pocosin,"N= 2years, S=2years since burn",,80,90,1,0,"pocosin on one side, savanna on other side"
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,SMC,B-1,187,0819,CACH,1,,,,,1,,,,,streamhead pocosin,"N= 2years, S=2years since burn",,80,90,1,0,"pocosin on one side, savanna on other side. HY? abbreviated call."
+8/22/2018,SMC,B-1,187,0819,CACH,1,,,1,,1,,,,,streamhead pocosin,"N= 2years, S=2years since burn",,80,90,1,0,"pocosin on one side, savanna on other side"
+8/22/2018,SMC,B-1,187,0819,CACH,1,,,1,,,1,,,,streamhead pocosin,"N= 2years, S=2years since burn",,80,90,1,0,"pocosin on one side, savanna on other side"
+8/22/2018,SMC,B-1,187,0819,NOCA,1,1,,1,,,1,,,,streamhead pocosin,"N= 2years, S=2years since burn",,80,90,1,0,"pocosin on one side, savanna on other side"
+8/22/2018,SMC,B-1,187,0819,AMCR,,,,,,,,,1,,streamhead pocosin,"N= 2years, S=2years since burn",,80,90,1,0,"pocosin on one side, savanna on other side; no time written"
+8/22/2018,SMC,B-1,187,0819,PIWA,,1,1,1,,1,,,,,streamhead pocosin,"N= 2years, S=2years since burn",,80,90,1,0,"pocosin on one side, savanna on other side"
+8/22/2018,SMC,B-1,187,0819,NOFL,,,,,,,1,,,,streamhead pocosin,"N= 2years, S=2years since burn",,80,90,1,0,"pocosin on one side, savanna on other side; no time written"
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,MMW,B-1,344,0837,RBWO,1,,,,,,,,1,,upland savanna,"N=>3 years, S=> 2 years since burn", human voice yelling far away,79,100,2,0,
+8/22/2018,MMW,B-1,344,0837,CARW,1,,,,1,,,,1,,upland savanna,"N=>3 years, S=> 2 years since burn", human voice yelling far away,79,100,2,0,
+8/22/2018,MMW,B-1,344,0837,BARS,,1,,,,,,,,1,upland savanna,"N=>3 years, S=> 2 years since burn", human voice yelling far away,79,100,2,0,
+8/22/2018,MMW,B-1,344,0837,RCWO,,1,1,1,,,,,1,,upland savanna,"N=>3 years, S=> 2 years since burn", human voice yelling far away,79,100,2,0,
+8/22/2018,MMW,B-1,344,0837,RCWO,,1,,,,,,1,,,upland savanna,"N=>3 years, S=> 2 years since burn", human voice yelling far away,79,100,2,0,
+8/22/2018,MMW,B-1,344,0837,AMCR,,1,1,1,1,,,,1,,upland savanna,"N=>3 years, S=> 2 years since burn", human voice yelling far away,79,100,2,0,
+8/22/2018,MMW,B-1,344,0837,BLJA,,,,1,,,,,1,,upland savanna,"N=>3 years, S=> 2 years since burn", human voice yelling far away,79,100,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,SMC,B-1,344,0837,RCWO,1,,,,,,,1,,,upland savanna,"N=>3 years, S=> 2 years since burn", human voice yelling far away,79,100,2,0,
+8/22/2018,SMC,B-1,344,0837,BARS,,1,,,,,,,,1,upland savanna,"N=>3 years, S=> 2 years since burn", human voice yelling far away,79,100,2,0,
+8/22/2018,SMC,B-1,344,0837,AMCR,,1,,,1,,,,1,,upland savanna,"N=>3 years, S=> 2 years since burn", human voice yelling far away,79,100,2,0,
+8/22/2018,SMC,B-1,344,0837,RHWO,,1,,,,,,,1,,upland savanna,"N=>3 years, S=> 2 years since burn", human voice yelling far away,79,100,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,MMW,B-1,60,0852,AMCR,1,1,1,1,1,,,,1,,upland savanna,3 years since burn,,80,100,1,0,
+8/22/2018,MMW,B-1,60,0852,RBWO,1,,,,,,,1,,,upland savanna,3 years since burn,,80,100,1,0,
+8/22/2018,MMW,B-1,60,0852,CARW,,1,,,,,,1,,,upland savanna,3 years since burn,,80,100,1,0,
+8/22/2018,MMW,B-1,60,0852,BLGR,,,1,,,,,1,,,upland savanna,3 years since burn,,80,100,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,SMC,B-1,60,0852,AMCR,,,1,1,,,,,1,,upland savanna,3 years since burn,,80,100,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,MMW,B-1,284,0906,BLGR,,1,1,1,,,,1,,,upland savanna,2-3 years since burn,,80,100,2,0,"open drop zone within 50 meters to south,  EAKI and BLGR are in open area."
+8/22/2018,MMW,B-1,284,0906,EAWP,,,1,,1,,,,1,,upland savanna,2-3 years since burn,,80,100,2,0,"open drop zone within 50 meters to south,  EAKI and BLGR are in open area."
+8/22/2018,MMW,B-1,284,0906,MODO,,,1,,,,1,,,,upland savanna,2-3 years since burn,,80,100,2,0,"open drop zone within 50 meters to south,  EAKI and BLGR are in open area."
+8/22/2018,MMW,B-1,284,0906,MODO,,,1,,,,1,,,,upland savanna,2-3 years since burn,,80,100,2,0,"open drop zone within 50 meters to south,  EAKI and BLGR are in open area."
+8/22/2018,MMW,B-1,284,0906,EAKI,,,1,1,1,,,,1,,upland savanna,2-3 years since burn,,80,100,2,0,"open drop zone within 50 meters to south,  EAKI and BLGR are in open area."
+8/22/2018,MMW,B-1,284,0906,EAWP,,,,,1,,,,1,,upland savanna,2-3 years since burn,,80,100,2,0,"open drop zone within 50 meters to south,  EAKI and BLGR are in open area."
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,SMC,B-1,284,0906,BARS,1,,,,,,,,,1,upland savanna,2-3 years since burn,,80,100,2,0,"open drop zone within 50 meters to south,  EAKI and BLGR are in open area."
+8/22/2018,SMC,B-1,284,0906,EAKI,1,1,,1,1,,,1,,,upland savanna,2-3 years since burn,,80,100,2,0,"open drop zone within 50 meters to south,  EAKI and BLGR are in open area."
+8/22/2018,SMC,B-1,284,0906,CARW,,1,,,,,,,1,,upland savanna,2-3 years since burn,,80,100,2,0,"open drop zone within 50 meters to south,  EAKI and BLGR are in open area."
+8/22/2018,SMC,B-1,284,0906,EAKI,,1,,1,1,,,,1,,upland savanna,2-3 years since burn,,80,100,2,0,"open drop zone within 50 meters to south,  EAKI and BLGR are in open area."
+8/22/2018,SMC,B-1,284,0906,EAWP,,,1,,,,,,1,,upland savanna,2-3 years since burn,,80,100,2,0,"open drop zone within 50 meters to south,  EAKI and BLGR are in open area."
+8/22/2018,SMC,B-1,284,0906,SUTA,,,1,,,,,,1,,upland savanna,2-3 years since burn,,80,100,2,0,"open drop zone within 50 meters to south,  EAKI and BLGR are in open area."
+8/22/2018,SMC,B-1,284,0906,EAWP,,,1,,,,,,1,,upland savanna,2-3 years since burn,,80,100,2,0,"open drop zone within 50 meters to south,  EAKI and BLGR are in open area."
+8/22/2018,SMC,B-1,284,0906,MODO,,,1,,,,,1,,,upland savanna,2-3 years since burn,,80,100,2,0,"open drop zone within 50 meters to south,  EAKI and BLGR are in open area."
+8/22/2018,SMC,B-1,284,0906,BLGR,,,1,1,,,,1,,,upland savanna,2-3 years since burn,,80,100,2,0,"open drop zone within 50 meters to south,  EAKI and BLGR are in open area."
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,MMW,B-1,51,0921,AMCR,,,,1,,,,,1,,bottomland,"E=1 year, W= 2years since burn","cicadas loud and constant,  a problem",79,100,2,0,
+8/22/2018,MMW,B-1,51,0921,HOWA,,,,,1,1,,,,,bottomland,"E=1 year, W= 2years since burn","cicadas loud and constant,  a problem",79,100,2,0,"visual only, SMC did not see"
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,SMC,B-1,51,0921,,,,,,,,,,,,bottomland,"E=1 year, W= 2years since burn","cicadas loud and constant,  a problem",79,100,2,0,no birds detected
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,MMW,B-1,5,0944,CARW,,,1,1,1,,1,,,,bottomland,burned within 6 months,"cicadas loud and constant, army truck came by during count and I had to move my truck, artillery fire loud once",80,90,2,0,
+8/22/2018,MMW,B-1,5,0944,NOCA,,,,1,1,1,,,,,bottomland,burned within 6 months,"cicadas loud and constant, army truck came by during count and I had to move my truck, artillery fire loud once",80,90,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,SMC,B-1,5,0944,CARW,,,1,,,,,1,,,bottomland,burned within 6 months,"cicadas loud and constant, army truck came by during count and I had to move my truck, artillery fire loud once",80,90,2,0,
+8/22/2018,SMC,B-1,5,0944,NOCA,,,,1,1,,1,,,,bottomland,burned within 6 months,"cicadas loud and constant, army truck came by during count and I had to move my truck, artillery fire loud once",80,90,2,0,
+8/22/2018,SMC,B-1,5,0944,CARW,,,,,1,,,,1,,bottomland,burned within 6 months,"cicadas loud and constant, army truck came by during count and I had to move my truck, artillery fire loud once",80,90,2,0,
+8/22/2018,SMC,B-1,5,0944,EATO,,,,,1,,,1,,,bottomland,burned within 6 months,"cicadas loud and constant, army truck came by during count and I had to move my truck, artillery fire loud once",80,90,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,MMW,B-1,120,1051,BLJA,,,,,1,,,,1,,bottomland/savanna,< 1year ago,"insect noise substantial,  but birds quiet late in day too. Some vehicle noise early.",82,40,1,0,winched Brett and Loren's truck out of hole up on Manchester between last point and this
+,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2018,SMC,B-1,120,1051,BLJA,,,,,1,,,,1,,bottomland/savanna,< 1year ago,"insect noise substantial,  but birds quiet late in day too. Some vehicle noise early.",82,40,1,0,winched Brett and Loren's truck out of hole up on Manchester between last point and this
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,MMW,A,71,0635,TUTI,1,,,,,,,1,,,upland savanna,> 3 years since burn,,74,90,2,0,
+8/23/2018,MMW,A,71,0635,MODO,1,1,,,,,,,1,,upland savanna,> 3 years since burn,,74,90,2,0,
+8/23/2018,MMW,A,71,0635,EAWP,1,1,1,1,1,,,1,,,upland savanna,> 3 years since burn,,74,90,2,0,
+8/23/2018,MMW,A,71,0635,CARW,1,,,,,,,1,,,upland savanna,> 3 years since burn,,74,90,2,0,
+8/23/2018,MMW,A,71,0635,EAWP,,,1,1,1,,,1,,,upland savanna,> 3 years since burn,,74,90,2,0,
+8/23/2018,MMW,A,71,0635,BGGN,,,1,,,,1,,,,upland savanna,> 3 years since burn,,74,90,2,0,
+8/23/2018,MMW,A,71,0635,CARW,,,,1,1,,1,,,,upland savanna,> 3 years since burn,,74,90,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,SMC,A,71,0635,EAWP,1,1,1,1,1,,,1,,,upland savanna,> 3 years since burn,,74,90,2,0,
+8/23/2018,SMC,A,71,0635,MODO,1,1,,,,,,1,,,upland savanna,> 3 years since burn,,74,90,2,0,
+8/23/2018,SMC,A,71,0635,EAWP,1,,1,,,,,1,,,upland savanna,> 3 years since burn,,74,90,2,0,
+8/23/2018,SMC,A,71,0635,BGGN,,,1,,,,1,,,,upland savanna,> 3 years since burn,,74,90,2,0,
+8/23/2018,SMC,A,71,0635,CARW,,,,1,1,,,1,,,upland savanna,> 3 years since burn,,74,90,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,MMW,A,38,0645,AMCR,1,1,,,,,,,1,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,
+8/23/2018,MMW,A,38,0645,CACH,1,1,1,1,,1,,,,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,
+8/23/2018,MMW,A,38,0645,PIWA,1,1,1,1,,1,,,,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,
+8/23/2018,MMW,A,38,0645,CACH,1,1,1,1,,1,,,,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,
+8/23/2018,MMW,A,38,0645,TUTI,1,,,,,,,1,,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,
+8/23/2018,MMW,A,38,0645,CACH,1,1,1,,,1,,,,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,
+8/23/2018,MMW,A,38,0645,WBNU,,,,1,1,,,1,,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,
+8/23/2018,MMW,A,38,0645,WBNU,,,,1,1,,,1,,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,
+8/23/2018,MMW,A,38,0645,CARW,,,,1,1,,,1,,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,
+8/23/2018,MMW,A,38,0645,CARW,,,,,1,,1,,,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,
+8/23/2018,MMW,A,38,0645,EAWP,,,,,1,,,,1,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,SMC,A,38,0645,CACH,1,1,1,1,,,1,,,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,
+8/23/2018,SMC,A,38,0645,NOCA,1,,,,,,,1,,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,
+8/23/2018,SMC,A,38,0645,AMCR,1,,1,,,,,,1,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,
+8/23/2018,SMC,A,38,0645,EATO,,1,,,,,,1,,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,
+8/23/2018,SMC,A,38,0645,CACH,,,1,,,1,,,,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,"2 distances written,  also checked 90+"
+8/23/2018,SMC,A,38,0645,RHWO,,,,1,,,,,1,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,
+8/23/2018,SMC,A,38,0645,BLGR,,,,1,,,,1,,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,
+8/23/2018,SMC,A,38,0645,NOFL,,,,1,,,,,,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,no distance written
+8/23/2018,SMC,A,38,0645,CARW,,,,,1,,,1,,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,
+8/23/2018,SMC,A,38,0645,EAWP,,,,,1,,,1,,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,
+8/23/2018,SMC,A,38,0645,WBNU,,,,,1,,,1,,,upland savanna,"N=>3 years, S=~2 years since burn",,73,90,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,MMW,A,15,0700,NOCA,1,1,1,1,1,1,,,,,bottomland,does not burn regularly,,73,60,1,0,"point on map inaccessible, moved point to UTM 657650E, 3879406N"
+8/23/2018,MMW,A,15,0700,NOCA,1,1,1,1,1,1,,,,,bottomland,does not burn regularly,,73,60,1,0,"point on map inaccessible, moved point to UTM 657650E, 3879406N"
+8/23/2018,MMW,A,15,0700,ACFL,,,1,1,1,1,,,,,bottomland,does not burn regularly,,73,60,1,0,"point on map inaccessible, moved point to UTM 657650E, 3879406N"
+8/23/2018,MMW,A,15,0700,NOCA,,,,,1,,1,,,,bottomland,does not burn regularly,,73,60,1,0,"point on map inaccessible, moved point to UTM 657650E, 3879406N"
+8/23/2018,MMW,A,15,0700,NOCA,,,,,1,,1,,,,bottomland,does not burn regularly,,73,60,1,0,"point on map inaccessible, moved point to UTM 657650E, 3879406N"
+8/23/2018,MMW,A,15,0700,CARW,,,,,1,,1,,,,bottomland,does not burn regularly,,73,60,1,0,"point on map inaccessible, moved point to UTM 657650E, 3879406N"
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,SMC,A,15,0700,NOCA,1,1,1,1,1,,,1,,,bottomland,does not burn regularly,,73,60,1,0,"HY begging, moved point to UTM 657650E, 3879406N"
+8/23/2018,SMC,A,15,0700,EAWP,1,1,,,,,,,1,,bottomland,does not burn regularly,,73,60,1,0,"point on map inaccessible, moved point to UTM 657650E, 3879406N"
+8/23/2018,SMC,A,15,0700,ACFL,,1,1,1,1,,1,,,,bottomland,does not burn regularly,,73,60,1,0,"point on map inaccessible, moved point to UTM 657650E, 3879406N"
+8/23/2018,SMC,A,15,0700,NOCA,,,,1,1,,,1,,,bottomland,does not burn regularly,,73,60,1,0,"point on map inaccessible, moved point to UTM 657650E, 3879406N"
+8/23/2018,SMC,A,15,0700,CARW,,,,,1,,,1,,,bottomland,does not burn regularly,,73,60,1,0,"point on map inaccessible, moved point to UTM 657650E, 3879406N"
+8/23/2018,SMC,A,15,0700,BGGN,,,,,1,,,1,,,bottomland,does not burn regularly,,73,60,1,0,"point on map inaccessible, moved point to UTM 657650E, 3879406N"
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,MMW,A,84,0716,NOCA,1,1,1,1,1,1,,,,,bottomland,"N= 1 year, S=3 years since burn",,74,30,1,0,
+8/23/2018,MMW,A,84,0716,NOCA,1,1,1,1,1,1,,,,,bottomland,"N= 1 year, S=3 years since burn",,74,30,1,0,
+8/23/2018,MMW,A,84,0716,UNKNOwn woodpecker,1,1,,,,,,,1,,bottomland,"N= 1 year, S=3 years since burn",,74,30,1,0,DRUM
+8/23/2018,MMW,A,84,0716,CARW,1,1,1,,1,1,,,,,bottomland,"N= 1 year, S=3 years since burn",,74,30,1,0,
+8/23/2018,MMW,A,84,0716,YBCU,1,1,,,,1,,,,,bottomland,"N= 1 year, S=3 years since burn",,74,30,1,0,visual only
+8/23/2018,MMW,A,84,0716,AMCR,,,1,1,,,,,1,,bottomland,"N= 1 year, S=3 years since burn",,74,30,1,0,
+8/23/2018,MMW,A,84,0716,PIWO,,,1,1,,,,,1,,bottomland,"N= 1 year, S=3 years since burn",,74,30,1,0,
+8/23/2018,MMW,A,84,0716,NOCA,,,1,1,1,,1,,,,bottomland,"N= 1 year, S=3 years since burn",,74,30,1,0,
+8/23/2018,MMW,A,84,0716,CARW,,,,,1,,1,,,,bottomland,"N= 1 year, S=3 years since burn",,74,30,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,SMC,A,84,0716,NOCA,1,1,1,1,1,,1,,,,bottomland,"N= 1 year, S=3 years since burn",,74,30,1,0,
+8/23/2018,SMC,A,84,0716,NOCA,1,1,1,1,1,1,,,,,bottomland,"N= 1 year, S=3 years since burn",,74,30,1,0,
+8/23/2018,SMC,A,84,0716,CARW,,1,1,,1,,1,,,,bottomland,"N= 1 year, S=3 years since burn",,74,30,1,0,
+8/23/2018,SMC,A,84,0716,PIWO,,1,,,,,,,,1,bottomland,"N= 1 year, S=3 years since burn",,74,30,1,0,
+8/23/2018,SMC,A,84,0716,AMCR,,,1,1,1,,,,1,,bottomland,"N= 1 year, S=3 years since burn",,74,30,1,0,
+8/23/2018,SMC,A,84,0716,PIWO,,,1,,,,,,1,,bottomland,"N= 1 year, S=3 years since burn",,74,30,1,0,
+8/23/2018,SMC,A,84,0716,NOCA,,,1,1,1,,,1,,,bottomland,"N= 1 year, S=3 years since burn",,74,30,1,0,
+8/23/2018,SMC,A,84,0716,CARW,,,,,1,,,1,,,bottomland,"N= 1 year, S=3 years since burn",,74,30,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,MMW,A,287,0730,AMGO,1,,,,1,,,,,1,upland savanna,"N=>2 yrs, S=burned within the year",light road noise far away on Plank Rd,70,30,1,0,
+8/23/2018,MMW,A,287,0730,PIWA,,,,1,,,1,,,,upland savanna,"N=>2 yrs, S=burned within the year",light road noise far away on Plank Rd,70,30,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,SMC,A,287,0730,AMGO,,1,,,,,,,,1,upland savanna,"N=>2 yrs, S=burned within the year",light road noise far away on Plank Rd,70,30,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,MMW,A,93,0741,EATO,1,1,,,,1,,,,,bottomland,">5 years, does not burn regularly",,70,20,1,0,
+8/23/2018,MMW,A,93,0741,EATO,1,1,,,,1,,,,,bottomland,">5 years, does not burn regularly",,70,20,1,0,
+8/23/2018,MMW,A,93,0741,DOWO,1,,1,1,1,,1,,,,bottomland,">5 years, does not burn regularly",,70,20,1,0,SMC called this HAWO
+8/23/2018,MMW,A,93,0741,AMRO,1,,,,,1,,,,,bottomland,">5 years, does not burn regularly",,70,20,1,0,
+8/23/2018,MMW,A,93,0741,WEVI,,1,1,,,,1,,,,bottomland,">5 years, does not burn regularly",,70,20,1,0,
+8/23/2018,MMW,A,93,0741,ACFL,,1,,,,,1,,,,bottomland,">5 years, does not burn regularly",,70,20,1,0,
+8/23/2018,MMW,A,93,0741,NOCA,,,1,,,,1,,,,bottomland,">5 years, does not burn regularly",,70,20,1,0,
+8/23/2018,MMW,A,93,0741,CARW,,,,1,1,,,1,,,bottomland,">5 years, does not burn regularly",,70,20,1,0,
+8/23/2018,MMW,A,93,0741,DOWO,,,,,1,,,1,,,bottomland,">5 years, does not burn regularly",,70,20,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,SMC,A,93,0741,EATO,1,1,1,,,,,1,,,bottomland,">5 years, does not burn regularly",,70,20,1,0,
+8/23/2018,SMC,A,93,0741,HAWO,1,1,1,1,1,,,1,,,bottomland,">5 years, does not burn regularly",,70,20,1,0,
+8/23/2018,SMC,A,93,0741,NOFL,,1,,,,,,1,,,bottomland,">5 years, does not burn regularly",,70,20,1,0,
+8/23/2018,SMC,A,93,0741,WEVI,,1,1,,,,,1,,,bottomland,">5 years, does not burn regularly",,70,20,1,0,
+8/23/2018,SMC,A,93,0741,AMRO,,1,,,,,,,1,,bottomland,">5 years, does not burn regularly",,70,20,1,0,
+8/23/2018,SMC,A,93,0741,CARW,,,,,1,,,1,,,bottomland,">5 years, does not burn regularly",,70,20,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,MMW,A,304,0801,AMKE,1,,,,,,,1,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,"kestrel,  excel wants to auto correct AMKE to MAKE,  had to adjust autocorrect settings!"
+8/23/2018,MMW,A,304,0801,RHWO,1,1,1,1,1,1,,,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+8/23/2018,MMW,A,304,0801,RHWO,1,1,1,1,1,1,,,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+8/23/2018,MMW,A,304,0801,EATO,1,1,1,1,,,1,,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+8/23/2018,MMW,A,304,0801,BLJA,1,1,,,,,1,,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+8/23/2018,MMW,A,304,0801,PIWA,1,,1,,1,1,,,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+8/23/2018,MMW,A,304,0801,RHWO,1,1,1,1,1,1,,,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+8/23/2018,MMW,A,304,0801,CARW,,1,,,,,1,,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+8/23/2018,MMW,A,304,0801,AMGO,,,1,,,,,1,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+8/23/2018,MMW,A,304,0801,BHNU,,,,1,,,1,,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+8/23/2018,MMW,A,304,0801,PIWO,,,,1,,,,,1,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+8/23/2018,MMW,A,304,0801,NOCA,,,,1,1,1,,,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,Second distance written as 30-60m
+8/23/2018,MMW,A,304,0801,PIWO,,,,,1,1,,,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+8/23/2018,MMW,A,304,0801,BGGN,,,,,1,,1,,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+8/23/2018,MMW,A,304,0801,BGGN,,,,,1,,1,,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,SMC,A,304,0801,NOCA,1,,1,1,1,,,1,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+8/23/2018,SMC,A,304,0801,BHNU,1,,1,,,,1,,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+8/23/2018,SMC,A,304,0801,CARW,1,1,,1,,,1,,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+8/23/2018,SMC,A,304,0801,EATO,1,,1,,,,,1,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+8/23/2018,SMC,A,304,0801,BLJA,1,,,,,,,1,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+8/23/2018,SMC,A,304,0801,CHSP,1,,,,,1,,,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+8/23/2018,SMC,A,304,0801,RHWO,,1,1,1,1,,1,,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+8/23/2018,SMC,A,304,0801,RHWO,,1,1,1,1,,1,,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+8/23/2018,SMC,A,304,0801,RHWO,,,,1,,,,,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,no distance written
+8/23/2018,SMC,A,304,0801,BGGN,,,,,1,,1,,,,upland savanna,burned w/in 1 year,road noise significant/moderate to East and South,72,0,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,MMW,A,345,0815,EATO,1,1,,,,,,,1,,upland savanna,"S=>2 yrs, N=w/in 1 year",light road noise to south,72,20,2,0,close in proximity to bottomland hardwood
+8/23/2018,MMW,A,345,0815,BGGN,,,1,,,,,1,,,upland savanna,"S=>2 yrs, N=w/in 1 year",light road noise to south,72,20,2,0,close in proximity to bottomland hardwood
+8/23/2018,MMW,A,345,0815,RHWO,,,1,,,,,,1,,upland savanna,"S=>2 yrs, N=w/in 1 year",light road noise to south,72,20,2,0,close in proximity to bottomland hardwood
+8/23/2018,MMW,A,345,0815,CARW,,1,,1,1,,,1,,,upland savanna,"S=>2 yrs, N=w/in 1 year",light road noise to south,72,20,2,0,close in proximity to bottomland hardwood
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,SMC,A,345,0815,BARS,,1,,,,,,,,1,upland savanna,"S=>2 yrs, N=w/in 1 year",light road noise to south,72,20,2,0,close in proximity to bottomland hardwood
+8/23/2018,SMC,A,345,0815,CARW,,,,,1,,,1,,,upland savanna,"S=>2 yrs, N=w/in 1 year",light road noise to south,72,20,2,0,close in proximity to bottomland hardwood
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,MMW,A,240,0833,BLJA,1,,,,,,,1,,,streamhead pocosin/upland savanna,"N=~2yrs, S=w/in 1 year",,75,0,2,0,"pocosin south of road, savanna north of road"
+8/23/2018,MMW,A,240,0833,MODO,1,,,,,,1,,,,streamhead pocosin/upland savanna,"N=~2yrs, S=w/in 1 year",,75,0,2,0,"pocosin south of road, savanna north of road"
+8/23/2018,MMW,A,240,0833,BLJA,1,,1,,1,,,,1,,streamhead pocosin/upland savanna,"N=~2yrs, S=w/in 1 year",,75,0,2,0,"pocosin south of road, savanna north of road"
+8/23/2018,MMW,A,240,0833,BHNU,,,,,1,,1,,,,streamhead pocosin/upland savanna,"N=~2yrs, S=w/in 1 year",,75,0,2,0,"pocosin south of road, savanna north of road"
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,SMC,A,240,0833,BLJA,1,,,,,,,,1,,streamhead pocosin/upland savanna,"N=~2yrs, S=w/in 1 year",,75,0,2,0,"pocosin south of road, savanna north of road"
+8/23/2018,SMC,A,240,0833,BHNU,,,,,1,,,1,,,streamhead pocosin/upland savanna,"N=~2yrs, S=w/in 1 year",,75,0,2,0,"pocosin south of road, savanna north of road"
+8/23/2018,SMC,A,240,0833,SUTA,,,,,1,,,1,,,streamhead pocosin/upland savanna,"N=~2yrs, S=w/in 1 year",,75,0,2,0,"pocosin south of road, savanna north of road"
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,MMW,A,21,0859,CARW,1,1,1,1,1,,1,,,,bottomland/savanna,2 years since burn,,75,0,2,0,bottomland and a little pine savanna
+8/23/2018,MMW,A,21,0859,CARW,1,1,1,,,,1,,,,bottomland/savanna,2 years since burn,,75,0,2,0,bottomland and a little pine savanna
+8/23/2018,MMW,A,21,0859,CARW,1,1,1,,,,,1,,,bottomland/savanna,2 years since burn,,75,0,2,0,bottomland and a little pine savanna
+8/23/2018,MMW,A,21,0859,WEVI,,,1,1,1,,,1,,,bottomland/savanna,2 years since burn,,75,0,2,0,bottomland and a little pine savanna
+8/23/2018,MMW,A,21,0859,BGGN,,,1,,,,1,,,,bottomland/savanna,2 years since burn,,75,0,2,0,bottomland and a little pine savanna
+8/23/2018,MMW,A,21,0859,EATO,,,,1,1,,,1,,,bottomland/savanna,2 years since burn,,75,0,2,0,bottomland and a little pine savanna
+8/23/2018,MMW,A,21,0859,AMGO,,,,1,1,,,,,1,bottomland/savanna,2 years since burn,,75,0,2,0,bottomland and a little pine savanna
+8/23/2018,MMW,A,21,0859,GRCA,,,,1,1,1,,,,,bottomland/savanna,2 years since burn,,75,0,2,0,bottomland and a little pine savanna
+8/23/2018,MMW,A,21,0859,EATO,,,,,1,,,,1,,bottomland/savanna,2 years since burn,,75,0,2,0,bottomland and a little pine savanna
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,SMC,A,21,0859,CARW,1,1,1,1,,,1,,,,bottomland/savanna,2 years since burn,,75,0,2,0,bottomland and a little pine savanna
+8/23/2018,SMC,A,21,0859,CARW,1,,,,,,1,,,,bottomland/savanna,2 years since burn,,75,0,2,0,bottomland and a little pine savanna
+8/23/2018,SMC,A,21,0859,CARW,1,1,1,,,,,1,,,bottomland/savanna,2 years since burn,,75,0,2,0,bottomland and a little pine savanna
+8/23/2018,SMC,A,21,0859,WEVI,,,1,,,,,1,,,bottomland/savanna,2 years since burn,,75,0,2,0,bottomland and a little pine savanna
+8/23/2018,SMC,A,21,0859,GRCA,,,1,,1,,,1,,,bottomland/savanna,2 years since burn,,75,0,2,0,bottomland and a little pine savanna
+8/23/2018,SMC,A,21,0859,EATO,,,,1,1,,,,1,,bottomland/savanna,2 years since burn,,75,0,2,0,bottomland and a little pine savanna
+8/23/2018,SMC,A,21,0859,AMGO,,,,1,1,,,,,1,bottomland/savanna,2 years since burn,,75,0,2,0,bottomland and a little pine savanna
+8/23/2018,SMC,A,21,0859,CACH,,,,1,,,,1,,,bottomland/savanna,2 years since burn,,75,0,2,0,bottomland and a little pine savanna
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,MMW,A,53,0922,NOCA,1,1,1,1,1,1,,,,,bottomland,>3 years since burn,"wind noise in trees, gusts.  Cicadas once in a while, drone noise far away.",77,0,2,0,
+8/23/2018,MMW,A,53,0922,CACH,1,,1,,,,,1,,,bottomland,>3 years since burn,"wind noise in trees, gusts.  Cicadas once in a while, drone noise far away.",77,0,2,0,
+8/23/2018,MMW,A,53,0922,NOCA,1,1,1,,,,1,,,,bottomland,>3 years since burn,"wind noise in trees, gusts.  Cicadas once in a while, drone noise far away.",77,0,2,0,
+8/23/2018,MMW,A,53,0922,WBNU,1,1,1,,,,,1,,,bottomland,>3 years since burn,"wind noise in trees, gusts.  Cicadas once in a while, drone noise far away.",77,0,2,0,
+8/23/2018,MMW,A,53,0922,YBCH,,1,,,,,1,,,,bottomland,>3 years since burn,"wind noise in trees, gusts.  Cicadas once in a while, drone noise far away.",77,0,2,0,
+8/23/2018,MMW,A,53,0922,RCWO,,,,,1,,,1,,,bottomland,>3 years since burn,"wind noise in trees, gusts.  Cicadas once in a while, drone noise far away.",77,0,2,0,
+8/23/2018,MMW,A,53,0922,RCWO,,,,,1,,,1,,,bottomland,>3 years since burn,"wind noise in trees, gusts.  Cicadas once in a while, drone noise far away.",77,0,2,0,
+8/23/2018,MMW,A,53,0922,CARW,,,,,1,,1,,,,bottomland,>3 years since burn,"wind noise in trees, gusts.  Cicadas once in a while, drone noise far away.",77,0,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,SMC,A,53,0922,NOCA,1,1,1,,,,1,,,,bottomland,>3 years since burn,"wind noise in trees, gusts.  Cicadas once in a while, drone noise far away.",77,0,2,0,
+8/23/2018,SMC,A,53,0922,CACH,1,1,,,,,,1,,,bottomland,>3 years since burn,"wind noise in trees, gusts.  Cicadas once in a while, drone noise far away.",77,0,2,0,
+8/23/2018,SMC,A,53,0922,WBNU,1,1,,,,,,1,,,bottomland,>3 years since burn,"wind noise in trees, gusts.  Cicadas once in a while, drone noise far away.",77,0,2,0,
+8/23/2018,SMC,A,53,0922,EAWP,,,1,,,,,1,,,bottomland,>3 years since burn,"wind noise in trees, gusts.  Cicadas once in a while, drone noise far away.",77,0,2,0,
+8/23/2018,SMC,A,53,0922,CARW,,,,1,1,,,1,,,bottomland,>3 years since burn,"wind noise in trees, gusts.  Cicadas once in a while, drone noise far away.",77,0,2,0,
+8/23/2018,SMC,A,53,0922,RCWO,,,,,1,,,1,,,bottomland,>3 years since burn,"wind noise in trees, gusts.  Cicadas once in a while, drone noise far away.",77,0,2,0,
+8/23/2018,SMC,A,53,0922,RCWO,,,,,1,,,1,,,bottomland,>3 years since burn,"wind noise in trees, gusts.  Cicadas once in a while, drone noise far away.",77,0,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,MMW,A,305,0933,NOCA,1,1,1,,1,1,,,,,upland savanna,w/in 1 year,drone?,77,0,2,0,
+8/23/2018,MMW,A,305,0933,WBNU,1,,,,,,1,,,,upland savanna,w/in 1 year,drone?,77,0,2,0,
+8/23/2018,MMW,A,305,0933,NOCA,,1,1,,1,1,,,,,upland savanna,w/in 1 year,drone?,77,0,2,0,
+8/23/2018,MMW,A,305,0933,AMCR,,1,1,1,,,,,1,,upland savanna,w/in 1 year,drone?,77,0,2,0,very far away
+8/23/2018,MMW,A,305,0933,PIWA,,,1,,,,1,,,,upland savanna,w/in 1 year,drone?,77,0,2,0,
+8/23/2018,MMW,A,305,0933,EAWP,,,1,,1,,,1,,,upland savanna,w/in 1 year,drone?,77,0,2,0,
+8/23/2018,MMW,A,305,0933,RHWO,,,,1,,,,1,,,upland savanna,w/in 1 year,drone?,77,0,2,0,
+8/23/2018,MMW,A,305,0933,RHWO,,,,1,,,1,,,,upland savanna,w/in 1 year,drone?,77,0,2,0,visual only
+8/23/2018,MMW,A,305,0933,BGGN,,,,,1,,1,,,,upland savanna,w/in 1 year,drone?,77,0,2,0,
+8/23/2018,MMW,A,305,0933,EAWP,,,,,1,,,,1,,upland savanna,w/in 1 year,drone?,77,0,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,SMC,A,305,0933,NOCA,1,1,1,,1,,,1,,,upland savanna,w/in 1 year,drone?,77,0,2,0,
+8/23/2018,SMC,A,305,0933,WBNU,1,1,,,1,,,1,,,upland savanna,w/in 1 year,drone?,77,0,2,0,
+8/23/2018,SMC,A,305,0933,RHWO,,1,1,,,,,,1,,upland savanna,w/in 1 year,drone?,77,0,2,0,
+8/23/2018,SMC,A,305,0933,NOCA,,1,1,,1,,,1,,,upland savanna,w/in 1 year,drone?,77,0,2,0,
+8/23/2018,SMC,A,305,0933,EAWP,,,1,,1,,,1,,,upland savanna,w/in 1 year,drone?,77,0,2,0,
+8/23/2018,SMC,A,305,0933,RHWO,,,,1,1,,1,,,,upland savanna,w/in 1 year,drone?,77,0,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,MMW,A,113,0956,BLJA,1,,1,1,1,,,1,,,bottomland,"N= w/in 1 year, S=>3 years","infrequent gunfire, drone far away, intermittent cicadas",78,0,2,0,
+8/23/2018,MMW,A,113,0956,BLJA,1,,1,1,1,,,1,,,bottomland,"N= w/in 1 year, S=>3 years","infrequent gunfire, drone far away, intermittent cicadas",78,0,2,0,
+8/23/2018,MMW,A,113,0956,NOCA,1,,,1,1,1,,,,,bottomland,"N= w/in 1 year, S=>3 years","infrequent gunfire, drone far away, intermittent cicadas",78,0,2,0,
+8/23/2018,MMW,A,113,0956,PIWA,,1,1,1,1,1,,,,,bottomland,"N= w/in 1 year, S=>3 years","infrequent gunfire, drone far away, intermittent cicadas",78,0,2,0,
+8/23/2018,MMW,A,113,0956,RCWO,,1,,,,,,1,,,bottomland,"N= w/in 1 year, S=>3 years","infrequent gunfire, drone far away, intermittent cicadas",78,0,2,0,
+8/23/2018,MMW,A,113,0956,TUTI,,,1,,1,,,1,,,bottomland,"N= w/in 1 year, S=>3 years","infrequent gunfire, drone far away, intermittent cicadas",78,0,2,0,
+8/23/2018,MMW,A,113,0956,CARW,,,,1,,,,1,,,bottomland,"N= w/in 1 year, S=>3 years","infrequent gunfire, drone far away, intermittent cicadas",78,0,2,0,
+8/23/2018,MMW,A,113,0956,CACH,,,,,1,,,1,,,bottomland,"N= w/in 1 year, S=>3 years","infrequent gunfire, drone far away, intermittent cicadas",78,0,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,SMC,A,113,0956,BLJA,1,1,1,1,1,,,,1,,bottomland,"N= w/in 1 year, S=>3 years","infrequent gunfire, drone far away, intermittent cicadas",78,0,2,0,
+8/23/2018,SMC,A,113,0956,NOCA,1,,,,,,1,,,,bottomland,"N= w/in 1 year, S=>3 years","infrequent gunfire, drone far away, intermittent cicadas",78,0,2,0,
+8/23/2018,SMC,A,113,0956,BLJA,1,1,1,1,1,,,,1,,bottomland,"N= w/in 1 year, S=>3 years","infrequent gunfire, drone far away, intermittent cicadas",78,0,2,0,
+8/23/2018,SMC,A,113,0956,PIWA,,1,,,1,,1,,,,bottomland,"N= w/in 1 year, S=>3 years","infrequent gunfire, drone far away, intermittent cicadas",78,0,2,0,
+8/23/2018,SMC,A,113,0956,CARW,,,,1,1,,1,,,,bottomland,"N= w/in 1 year, S=>3 years","infrequent gunfire, drone far away, intermittent cicadas",78,0,2,0,
+8/23/2018,SMC,A,113,0956,BLGR,,,,1,1,,,1,,,bottomland,"N= w/in 1 year, S=>3 years","infrequent gunfire, drone far away, intermittent cicadas",78,0,2,0,
+8/23/2018,SMC,A,113,0956,TUTI,,,,,1,,1,,,,bottomland,"N= w/in 1 year, S=>3 years","infrequent gunfire, drone far away, intermittent cicadas",78,0,2,0,
+8/23/2018,SMC,A,113,0956,CACH,,,,,1,,1,,,,bottomland,"N= w/in 1 year, S=>3 years","infrequent gunfire, drone far away, intermittent cicadas",78,0,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,MMW,A,47,1014,BGGN,1,1,,,,1,,,,,upland savanna,"E=5 years, W=3yrs","drone constant but still far, artillery, cicadas intermittent",81,0,2,0,
+8/23/2018,MMW,A,47,1014,BGGN,1,1,,,,,1,,,,upland savanna,"E=5 years, W=3yrs","drone constant but still far, artillery, cicadas intermittent",81,0,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,SMC,A,47,1014,BGGN,1,,,,,1,,,,,upland savanna,"E=5 years, W=3yrs","drone constant but still far, artillery, cicadas intermittent",81,0,2,0,
+8/23/2018,SMC,A,47,1014,MODO,,,,1,,,,,,1,upland savanna,"E=5 years, W=3yrs","drone constant but still far, artillery, cicadas intermittent",81,0,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,MMW,A,81,1024,BLJA,1,1,1,1,1,1,,,,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,
+8/23/2018,MMW,A,81,1024,BLJA,1,1,1,1,1,1,,,,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,
+8/23/2018,MMW,A,81,1024,BLJA,1,1,1,1,1,1,,,,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,
+8/23/2018,MMW,A,81,1024,NOCA,1,1,,1,1,1,,,,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,
+8/23/2018,MMW,A,81,1024,NOCA,1,1,,1,1,1,,,,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,
+8/23/2018,MMW,A,81,1024,CACH,1,,,,,,1,,,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,
+8/23/2018,MMW,A,81,1024,CACH,1,,,,,,1,,,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,
+8/23/2018,MMW,A,81,1024,TUTI,1,,,,1,,1,,,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,
+8/23/2018,MMW,A,81,1024,RBWO,,1,,,,1,,,,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,
+8/23/2018,MMW,A,81,1024,HAWO,,,1,1,,,1,,,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,
+8/23/2018,MMW,A,81,1024,BGGN,,,1,,,,1,,,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,
+8/23/2018,MMW,A,81,1024,CARW,,,1,,,,1,,,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,SMC,A,81,1024,BLJA,1,1,1,1,1,,1,,,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,
+8/23/2018,SMC,A,81,1024,BLJA,1,1,1,1,1,,1,,,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,
+8/23/2018,SMC,A,81,1024,NOCA,1,,,,,,1,,,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,
+8/23/2018,SMC,A,81,1024,CACH,1,,,1,1,,,1,,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,
+8/23/2018,SMC,A,81,1024,CACH,1,,,,,,1,,,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,
+8/23/2018,SMC,A,81,1024,BLJA,1,1,,,1,,1,,,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,"this blja had two entries for distance 30-60 and 60-90, tuti below had no entries for distance, so i moved 60-90 to TUTI"
+8/23/2018,SMC,A,81,1024,TUTI,,1,,,,,,1,,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,"this blja had two entries for distance 30-60 and 60-90, tuti below had no entries for distance, so i moved 60-90 to TUTI"
+8/23/2018,SMC,A,81,1024,HAWO,,1,,,,,,,1,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,
+8/23/2018,SMC,A,81,1024,HAWO,,,,1,,1,,,,,bottomland,>3 years,"artillery, cicadas",82,0,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,MMW,A,42,1037,NOCA,1,1,1,,1,1,,,,,upland savanna,"E=>5 yrs, W=2 years","drone, cicadas, pretty bad",77,0,3,0,"strange drop in temp between last point, this and next point"
+8/23/2018,MMW,A,42,1037,AMCR,,1,,,1,,,,1,,upland savanna,"E=>5 yrs, W=2 years","drone, cicadas, pretty bad",77,0,3,0,"very far. strange drop in temp between last point, this and next point"
+8/23/2018,MMW,A,42,1037,MODO,,,,1,,,,,,1,upland savanna,"E=>5 yrs, W=2 years","drone, cicadas, pretty bad",77,0,3,0,"strange drop in temp between last point, this and next point"
+8/23/2018,MMW,A,42,1037,MODO,,,,1,,,,,,1,upland savanna,"E=>5 yrs, W=2 years","drone, cicadas, pretty bad",77,0,3,0,"strange drop in temp between last point, this and next point"
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,SMC,A,42,1037,NOCA,,,,1,1,,,1,,,upland savanna,"E=>5 yrs, W=2 years","drone, cicadas, pretty bad",77,0,3,0,"HY begging. strange drop in temp between last point, this and next point"
+8/23/2018,SMC,A,42,1037,NOCA,,,,,1,,,1,,,upland savanna,"E=>5 yrs, W=2 years","drone, cicadas, pretty bad",77,0,3,0,"HY begging. strange drop in temp between last point, this and next point"
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,MMW,A,2,1053,AMCR,,,,,1,,,,1,,upland savanna/open field,> 3 years,drone constant,88,0,3,0,"point is sitting on an open patch of land next to savanna, late in day, this is an extra point,  may want to throw out?"
+,,,,,,,,,,,,,,,,,,,,,,,
+8/23/2018,SMC,A,2,1053,MODO,,1,,,,,,1,,,upland savanna/open field,> 3 years,drone constant,88,0,3,0,"point is sitting on an open patch of land next to savanna, late in day, this is an extra point,  may want to throw out?"
+8/23/2018,SMC,A,2,1053,COHA,,,,1,,,,,,1,upland savanna/open field,> 3 years,drone constant,88,0,3,0,"point is sitting on an open patch of land next to savanna, late in day, this is an extra point,  may want to throw out?"
+8/23/2018,SMC,A,2,1053,AMCR,,,,,1,,,,1,,upland savanna/open field,> 3 years,drone constant,88,0,3,0,"point is sitting on an open patch of land next to savanna, late in day, this is an extra point,  may want to throw out?"
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,MMW,D,43,0636,CARW,1,1,1,1,1,1,,,,,bottomland,"NE=2 years, NW=>3 years",,59,0,0,0,
+8/24/2018,MMW,D,43,0636,BGGN,1,1,1,1,1,1,,,,,bottomland,"NE=2 years, NW=>3 years",,59,0,0,0,
+8/24/2018,MMW,D,43,0636,DOWO,1,,,,,,1,,,,bottomland,"NE=2 years, NW=>3 years",,59,0,0,0,
+8/24/2018,MMW,D,43,0636,MODO,1,1,1,,,,,1,,,bottomland,"NE=2 years, NW=>3 years",,59,0,0,0,
+8/24/2018,MMW,D,43,0636,HAWO,1,,,,,1,,,,,bottomland,"NE=2 years, NW=>3 years",,59,0,0,0,
+8/24/2018,MMW,D,43,0636,PIWA,,1,1,,,,1,,,,bottomland,"NE=2 years, NW=>3 years",,59,0,0,0,
+8/24/2018,MMW,D,43,0636,CARW,,,1,,1,1,,,,,bottomland,"NE=2 years, NW=>3 years",,59,0,0,0,
+8/24/2018,MMW,D,43,0636,EATO,,,1,1,1,,,1,,,bottomland,"NE=2 years, NW=>3 years",,59,0,0,0,
+8/24/2018,MMW,D,43,0636,EAWP,,,,,1,,,,1,,bottomland,"NE=2 years, NW=>3 years",,59,0,0,0,
+8/24/2018,MMW,D,43,0636,NOCA,,,,,1,,,1,,,bottomland,"NE=2 years, NW=>3 years",,59,0,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,SMC,D,43,0636,CARW,1,1,1,1,1,,1,,,,bottomland,"NE=2 years, NW=>3 years",,59,0,0,0,
+8/24/2018,SMC,D,43,0636,MODO,1,1,1,1,,,1,,,,bottomland,"NE=2 years, NW=>3 years",,59,0,0,0,
+8/24/2018,SMC,D,43,0636,DOWO,1,,,,,,1,1,,,bottomland,"NE=2 years, NW=>3 years",,59,0,0,0,
+8/24/2018,SMC,D,43,0636,BGGN,1,1,1,1,1,,,1,,,bottomland,"NE=2 years, NW=>3 years",,59,0,0,0,
+8/24/2018,SMC,D,43,0636,NOCA,,,1,,,,,1,,,bottomland,"NE=2 years, NW=>3 years",,59,0,0,0,
+8/24/2018,SMC,D,43,0636,EATO,,,1,,1,,,1,,,bottomland,"NE=2 years, NW=>3 years",,59,0,0,0,
+8/24/2018,SMC,D,43,0636,CARW,,,1,1,,,,1,,,bottomland,"NE=2 years, NW=>3 years",,59,0,0,0,
+8/24/2018,SMC,D,43,0636,EATO,,,,1,,,,,1,,bottomland,"NE=2 years, NW=>3 years",,59,0,0,0,
+8/24/2018,SMC,D,43,0636,AMCR,,,,1,1,,,,1,,bottomland,"NE=2 years, NW=>3 years",,59,0,0,0,
+8/24/2018,SMC,D,43,0636,RHWO,,,,1,,,,,1,,bottomland,"NE=2 years, NW=>3 years",,59,0,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,MMW,D,16,0646,BLGR,1,,,,,,1,,,,upland savanna,within 1 year,traffic,59,0,0,0,
+8/24/2018,MMW,D,16,0646,CARW,1,1,,,,,,1,,,upland savanna,within 1 year,traffic,59,0,0,0,
+8/24/2018,MMW,D,16,0646,EAWP,1,1,,1,1,,,,1,,upland savanna,within 1 year,traffic,59,0,0,0,constant
+8/24/2018,MMW,D,16,0646,DOWO,1,,1,1,1,,,,1,,upland savanna,within 1 year,traffic,59,0,0,0,
+8/24/2018,MMW,D,16,0646,AMCR,1,1,1,1,,,,,1,,upland savanna,within 1 year,traffic,59,0,0,0,
+8/24/2018,MMW,D,16,0646,NOCA,,1,,,,,1,,,,upland savanna,within 1 year,traffic,59,0,0,0,
+8/24/2018,MMW,D,16,0646,NOBO,,,1,1,,,,,1,,upland savanna,within 1 year,traffic,59,0,0,0,
+8/24/2018,MMW,D,16,0646,PIWA,,,1,,1,,1,,,,upland savanna,within 1 year,traffic,59,0,0,0,
+8/24/2018,MMW,D,16,0646,PIWO,,,,1,,,,,1,,upland savanna,within 1 year,traffic,59,0,0,0,far away
+8/24/2018,MMW,D,16,0646,RCWO,,,,,1,,,1,,,upland savanna,within 1 year,traffic,59,0,0,0,
+8/24/2018,MMW,D,16,0646,RCWO,,,,,1,,,1,,,upland savanna,within 1 year,traffic,59,0,0,0,
+8/24/2018,MMW,D,16,0646,AMGO,,,,,1,,,,,1,upland savanna,within 1 year,traffic,59,0,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,SMC,D,16,0646,PIWA,1,,,,,1,,,,,upland savanna,within 1 year,traffic,59,0,0,0,
+8/24/2018,SMC,D,16,0646,BLGR,1,,,,,,,1,,,upland savanna,within 1 year,traffic,59,0,0,0,
+8/24/2018,SMC,D,16,0646,NOCA,1,,,,,,1,,,,upland savanna,within 1 year,traffic,59,0,0,0,
+8/24/2018,SMC,D,16,0646,BGGN,1,,1,,,,1,,,,upland savanna,within 1 year,traffic,59,0,0,0,
+8/24/2018,SMC,D,16,0646,NOBO,,1,1,1,1,,,,1,,upland savanna,within 1 year,traffic,59,0,0,0,
+8/24/2018,SMC,D,16,0646,EAWP,,1,1,1,1,,,1,,,upland savanna,within 1 year,traffic,59,0,0,0,
+8/24/2018,SMC,D,16,0646,AMCR,,1,,,,,,,1,,upland savanna,within 1 year,traffic,59,0,0,0,
+8/24/2018,SMC,D,16,0646,CACH,,,1,,,,,1,,,upland savanna,within 1 year,traffic,59,0,0,0,
+8/24/2018,SMC,D,16,0646,CHSP,,,,,1,1,,,,,upland savanna,within 1 year,traffic,59,0,0,0,
+8/24/2018,SMC,D,16,0646,AMGO,,,,,1,,,,,1,upland savanna,within 1 year,traffic,59,0,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,MMW,D,86,0700,CACH,1,,,,,1,,,,,bottomland,>10 years,street,59,0,0,0,
+8/24/2018,MMW,D,86,0700,COYE,1,1,1,1,1,1,,,,,bottomland,>10 years,street,59,0,0,0,
+8/24/2018,MMW,D,86,0700,AMCR,1,,1,1,1,,,1,,,bottomland,>10 years,street,59,0,0,0,
+8/24/2018,MMW,D,86,0700,NOBO,1,1,1,1,,,,,1,,bottomland,>10 years,street,59,0,0,0,
+8/24/2018,MMW,D,86,0700,WEVI,1,1,1,1,,1,,,,,bottomland,>10 years,street,59,0,0,0,"Looked up 'pwee' call afterwards on Sibley phone app and discovered this was REVI, but didn't know if i should change it"
+8/24/2018,MMW,D,86,0700,CARW,,1,,,,1,,,,,bottomland,>10 years,street,59,0,0,0,
+8/24/2018,MMW,D,86,0700,PIWO,,1,,,1,,,,1,,bottomland,>10 years,street,59,0,0,0,
+8/24/2018,MMW,D,86,0700,DOWO,,,1,,,,,1,,,bottomland,>10 years,street,59,0,0,0,
+8/24/2018,MMW,D,86,0700,NOCA,,,1,1,1,,1,,,,bottomland,>10 years,street,59,0,0,0,
+8/24/2018,MMW,D,86,0700,ACFL,,,,,1,1,,,,,bottomland,>10 years,street,59,0,0,0,
+8/24/2018,MMW,D,86,0700,BGGN,,,,,1,1,,,,,bottomland,>10 years,street,59,0,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,SMC,D,86,0700,CACH,1,,,,,1,,,,,bottomland,>10 years,street,59,0,0,0,
+8/24/2018,SMC,D,86,0700,COYE,1,1,1,1,1,1,,,,,bottomland,>10 years,street,59,0,0,0,
+8/24/2018,SMC,D,86,0700,AMCR,1,1,1,1,1,,,,1,,bottomland,>10 years,street,59,0,0,0,
+8/24/2018,SMC,D,86,0700,AMCR,1,1,,,,,,1,,,bottomland,>10 years,street,59,0,0,0,
+8/24/2018,SMC,D,86,0700,CACH,1,,,,,,1,,,,bottomland,>10 years,street,59,0,0,0,
+8/24/2018,SMC,D,86,0700,NOBO,1,1,1,1,1,,,,1,,bottomland,>10 years,street,59,0,0,0,
+8/24/2018,SMC,D,86,0700,REVI,1,1,1,1,,,,,,,bottomland,>10 years,street,59,0,0,0,"no distance written, assume 0-30 meters like MMW's ?"
+8/24/2018,SMC,D,86,0700,CARW,,1,,,,,1,,,,bottomland,>10 years,street,59,0,0,0,
+8/24/2018,SMC,D,86,0700,PIWO,,1,,,,,,,1,,bottomland,>10 years,street,59,0,0,0,
+8/24/2018,SMC,D,86,0700,MODO,,,1,1,,,,1,,,bottomland,>10 years,street,59,0,0,0,
+8/24/2018,SMC,D,86,0700,BLGR,,,,1,1,,,1,,,bottomland,>10 years,street,59,0,0,0,
+8/24/2018,SMC,D,86,0700,HAWO,,,,,1,,,,,1,bottomland,>10 years,street,59,0,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,MMW,D,252,0722,BGGN,1,1,,1,,,1,,,,streamhead pocosin,"S=2 years, N=> 3 years",distant traffic,61,0,0,0,
+8/24/2018,MMW,D,252,0722,DOWO,1,,1,,,,,1,,,streamhead pocosin,"S=2 years, N=> 3 years",distant traffic,61,0,0,0,
+8/24/2018,MMW,D,252,0722,PIWA,1,1,,1,,1,,,,,streamhead pocosin,"S=2 years, N=> 3 years",distant traffic,61,0,0,0,
+8/24/2018,MMW,D,252,0722,MODO,,1,,1,1,,1,,,,streamhead pocosin,"S=2 years, N=> 3 years",distant traffic,61,0,0,0,
+8/24/2018,MMW,D,252,0722,PIWA,,,1,1,,,,1,,,streamhead pocosin,"S=2 years, N=> 3 years",distant traffic,61,0,0,0,
+8/24/2018,MMW,D,252,0722,CARW,,,1,,1,,,1,,,streamhead pocosin,"S=2 years, N=> 3 years",distant traffic,61,0,0,0,
+8/24/2018,MMW,D,252,0722,NOCA,,,,1,,,,1,,,streamhead pocosin,"S=2 years, N=> 3 years",distant traffic,61,0,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,SMC,D,252,0722,DOWO,1,,,,,,,,1,,streamhead pocosin,"S=2 years, N=> 3 years",distant traffic,61,0,0,0,
+8/24/2018,SMC,D,252,0722,DOWO,1,,,,,,,1,,,streamhead pocosin,"S=2 years, N=> 3 years",distant traffic,61,0,0,0,
+8/24/2018,SMC,D,252,0722,CARW,,1,1,,,,,1,,,streamhead pocosin,"S=2 years, N=> 3 years",distant traffic,61,0,0,0,
+8/24/2018,SMC,D,252,0722,NOCA,,1,,,,,1,,,,streamhead pocosin,"S=2 years, N=> 3 years",distant traffic,61,0,0,0,
+8/24/2018,SMC,D,252,0722,MODO,,1,,,,1,,,,,streamhead pocosin,"S=2 years, N=> 3 years",distant traffic,61,0,0,0,
+8/24/2018,SMC,D,252,0722,HOWA,,,1,,,,1,,,,streamhead pocosin,"S=2 years, N=> 3 years",distant traffic,61,0,0,0,
+8/24/2018,SMC,D,252,0722,PIWA,,,,1,,,,1,,,streamhead pocosin,"S=2 years, N=> 3 years",distant traffic,61,0,0,0,
+8/24/2018,SMC,D,252,0722,CHSP,,,,1,,,1,,,,streamhead pocosin,"S=2 years, N=> 3 years",distant traffic,61,0,0,0,
+8/24/2018,SMC,D,252,0722,BGGN,,,,,1,,1,,,,streamhead pocosin,"S=2 years, N=> 3 years",distant traffic,61,0,0,0,
+8/24/2018,SMC,D,252,0722,PIWA,,,,,1,,,1,,,streamhead pocosin,"S=2 years, N=> 3 years",distant traffic,61,0,0,0,
+8/24/2018,SMC,D,252,0722,PIWA,,,,,1,,,1,,,streamhead pocosin,"S=2 years, N=> 3 years",distant traffic,61,0,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,MMW,D,13,0746,BLJA,1,1,,1,1,1,,,,,upland savanna,w/in 1 year,,65,0,0,0,
+8/24/2018,MMW,D,13,0746,BLJA,1,1,1,1,1,,1,,,,upland savanna,w/in 1 year,,65,0,0,0,
+8/24/2018,MMW,D,13,0746,BLJA,1,1,1,1,1,,,1,,,upland savanna,w/in 1 year,,65,0,0,0,
+8/24/2018,MMW,D,13,0746,BLJA,1,1,1,1,1,,,1,,,upland savanna,w/in 1 year,,65,0,0,0,
+8/24/2018,MMW,D,13,0746,AMCR,,1,1,1,1,,,,1,,upland savanna,w/in 1 year,,65,0,0,0,far away
+8/24/2018,MMW,D,13,0746,DOWO,,1,,,,,,1,,,upland savanna,w/in 1 year,,65,0,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,SMC,D,13,0746,BLJA,1,1,1,1,1,,1,,,,upland savanna,w/in 1 year,,65,0,0,0,
+8/24/2018,SMC,D,13,0746,BLJA,1,1,1,,,,,1,,,upland savanna,w/in 1 year,,65,0,0,0,
+8/24/2018,SMC,D,13,0746,BLJA,1,1,1,,,,,1,,,upland savanna,w/in 1 year,,65,0,0,0,
+8/24/2018,SMC,D,13,0746,BLJA,1,,,,,,,1,,,upland savanna,w/in 1 year,,65,0,0,0,
+8/24/2018,SMC,D,13,0746,DOWO,,1,,1,1,,,1,,,upland savanna,w/in 1 year,,65,0,0,0,
+8/24/2018,SMC,D,13,0746,AMCR,,,,1,,,,,1,,upland savanna,w/in 1 year,,65,0,0,0,
+8/24/2018,SMC,D,13,0746,BGGN,,,,1,,,1,,,,upland savanna,w/in 1 year,,65,0,0,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,MMW,D,275,0802,CARW,1,,,1,1,,,1,,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,MMW,D,275,0802,BLGR,1,,,,,,,1,,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,MMW,D,275,0802,NOCA,1,,,,,1,,,,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,MMW,D,275,0802,MODO,1,1,1,,,,,,1,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,MMW,D,275,0802,EAKI,1,,,,,,,1,,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,MMW,D,275,0802,CACH,1,,,,,,,1,,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,MMW,D,275,0802,EATO,,1,,,,,1,,,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,MMW,D,275,0802,AMCR,,1,1,,,,,,1,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna; AMCR really far away"
+8/24/2018,MMW,D,275,0802,RBWO,,,,1,,,,,1,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,MMW,D,275,0802,PIWA,,,,1,,,,1,,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,MMW,D,275,0802,SUTA,,,,,1,,1,,,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,MMW,D,275,0802,BRTH,,,,,1,,,1,,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,SMC,D,275,0802,CARW,1,,,,,,,1,,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,SMC,D,275,0802,BLGR,1,,,,,,,1,,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,SMC,D,275,0802,BLGR,1,,,,,,,,1,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,SMC,D,275,0802,MODO,1,1,,,,,,1,,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,SMC,D,275,0802,RSHA,,1,1,,,,,,1,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,SMC,D,275,0802,EATO,,1,,1,,,,1,,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,SMC,D,275,0802,NOCA,,1,,,,,,1,,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,SMC,D,275,0802,MODO,,1,,,,,1,,,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,SMC,D,275,0802,AMCR,,,1,1,1,,,,1,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,SMC,D,275,0802,PIWA,,,1,1,,,,1,,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,SMC,D,275,0802,SUTA,,,,1,1,,,1,,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+8/24/2018,SMC,D,275,0802,CARW,,,,,1,,,1,,,upland savanna/bottomland?,> 3 years,,67,0,0,0,"lots of hardwood, kinda like bottomland more than upland savanna"
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,MMW,D,89,0820,MODO,1,1,1,1,1,,,1,,,upland savanna,"S= w/in 2 years, N=> 3 years",road noise,66,0,1,0,strong hardwood component in this savanna
+8/24/2018,MMW,D,89,0820,RCWO,1,1,1,,1,,,1,,,upland savanna,"S= w/in 2 years, N=> 3 years",road noise,66,0,1,0,strong hardwood component in this savanna
+8/24/2018,MMW,D,89,0820,RHWO,1,1,1,1,1,,,1,,,upland savanna,"S= w/in 2 years, N=> 3 years",road noise,66,0,1,0,strong hardwood component in this savanna
+8/24/2018,MMW,D,89,0820,RHWO,1,1,1,,,,,1,,,upland savanna,"S= w/in 2 years, N=> 3 years",road noise,66,0,1,0,strong hardwood component in this savanna
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,SMC,D,89,0820,MODO,1,1,1,1,,,,1,,,upland savanna,"S= w/in 2 years, N=> 3 years",road noise,66,0,1,0,strong hardwood component in this savanna
+8/24/2018,SMC,D,89,0820,RCWO,1,1,,,,,,,1,,upland savanna,"S= w/in 2 years, N=> 3 years",road noise,66,0,1,0,strong hardwood component in this savanna
+8/24/2018,SMC,D,89,0820,RHWO,1,1,1,1,1,,,,1,,upland savanna,"S= w/in 2 years, N=> 3 years",road noise,66,0,1,0,strong hardwood component in this savanna
+8/24/2018,SMC,D,89,0820,RCWO,,1,,,,,1,,,,upland savanna,"S= w/in 2 years, N=> 3 years",road noise,66,0,1,0,strong hardwood component in this savanna
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,MMW,D,330,0829,CARW,1,,,,1,,,,1,,upland savanna,"S= w/in 3 months, N=w/in 2 years",,66,0,0,0,food field ~50 meter NE.  Quite a few large hardwoods.
+8/24/2018,MMW,D,330,0829,MODO,1,1,1,1,,,,,1,,upland savanna,"S= w/in 3 months, N=w/in 2 years",,66,0,0,0,food field ~50 meter NE.  Quite a few large hardwoods.
+8/24/2018,MMW,D,330,0829,BGGN,,1,,,,1,,,,,upland savanna,"S= w/in 3 months, N=w/in 2 years",,66,0,0,0,food field ~50 meter NE.  Quite a few large hardwoods.
+8/24/2018,MMW,D,330,0829,BLJA,,,,1,,,,,1,,upland savanna,"S= w/in 3 months, N=w/in 2 years",,66,0,0,0,food field ~50 meter NE.  Quite a few large hardwoods.
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,SMC,D,330,0829,WBNU,,,1,,,,,1,,,upland savanna,"S= w/in 3 months, N=w/in 2 years",,66,0,0,0,food field ~50 meter NE.  Quite a few large hardwoods.
+8/24/2018,SMC,D,330,0829,MODO,,,,1,,,,,1,,upland savanna,"S= w/in 3 months, N=w/in 2 years",,66,0,0,0,food field ~50 meter NE.  Quite a few large hardwoods.
+8/24/2018,SMC,D,330,0829,BLJA,,,,1,,,,,1,,upland savanna,"S= w/in 3 months, N=w/in 2 years",,66,0,0,0,food field ~50 meter NE.  Quite a few large hardwoods.
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,MMW,D,309,0839,CARW,,1,1,1,1,,,,1,,upland savanna,"S=w/in 3 months, N=w/in 2 years",,67,0,0,0,quite a few large hardwoods
+8/24/2018,MMW,D,309,0839,NOFL,,1,1,,,,,,1,,upland savanna,"S=w/in 3 months, N=w/in 2 years",,67,0,0,0,quite a few large hardwoods
+8/24/2018,MMW,D,309,0839,CARW,,,,1,1,,,,1,,upland savanna,"S=w/in 3 months, N=w/in 2 years",,67,0,0,0,quite a few large hardwoods
+8/24/2018,MMW,D,309,0839,NOCA,,,,,1,,,,1,,upland savanna,"S=w/in 3 months, N=w/in 2 years",,67,0,0,0,quite a few large hardwoods
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,SMC,D,309,0839,CARW,,,1,1,1,,,,1,,upland savanna,"S=w/in 3 months, N=w/in 2 years",,67,0,0,0,quite a few large hardwoods
+8/24/2018,SMC,D,309,0839,CARW,,,,1,,,,,1,,upland savanna,"S=w/in 3 months, N=w/in 2 years",,67,0,0,0,quite a few large hardwoods
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,MMW,D,341,0900,CARW,1,1,,,1,,1,,,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,MMW,D,341,0900,CARW,1,1,,,1,,1,,,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,MMW,D,341,0900,EATO,1,1,1,1,,,1,,,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,MMW,D,341,0900,RHWO,1,1,1,1,1,,,1,,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,MMW,D,341,0900,RHWO,1,1,1,1,1,,,1,,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,MMW,D,341,0900,BLJA,1,,1,,,,,1,,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,MMW,D,341,0900,EATO,,1,1,1,,,,1,,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,MMW,D,341,0900,NOFL,,1,,,,,,,1,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,MMW,D,341,0900,NOCA,,,1,,,,1,,,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,MMW,D,341,0900,EATO,,,1,,,,,1,,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,MMW,D,341,0900,RCWO,,,,1,1,,1,,,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,MMW,D,341,0900,RHWO,,,,,1,,,1,,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,MMW,D,341,0900,OSPR,,,,,1,,,,,1,upland savanna,> 2 years,,69,0,1,0,Osprey
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,SMC,D,341,0900,CARW,1,1,1,1,,,1,,,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,SMC,D,341,0900,EATO,1,1,1,1,,,,1,,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,SMC,D,341,0900,WBNU,1,,,,,,,1,,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,SMC,D,341,0900,RHWO,1,1,1,1,1,,,,1,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,SMC,D,341,0900,RHWO,1,1,1,,1,,,,1,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,SMC,D,341,0900,CARW,,1,1,1,,,,1,,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,SMC,D,341,0900,NOBO,,1,,,,,1,,,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,SMC,D,341,0900,NOFL,,,1,1,,,,,,,upland savanna,> 2 years,,69,0,1,0,no distance written
+8/24/2018,SMC,D,341,0900,RCWO,,,,1,,,1,,,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,SMC,D,341,0900,NOFL,,,,1,,,,1,,,upland savanna,> 2 years,,69,0,1,0,
+8/24/2018,SMC,D,341,0900,NOCA,,,,1,1,,,1,,,upland savanna,> 2 years,,69,0,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,MMW,D,58,0921,CARW,1,,1,,,1,,,,,bottomland,>10 years,cicadas very mild,74,0,1,0,"2 loud dogs running around forest at survey point right before we arrived, owner put them in her car and drove away as we drove up."
+8/24/2018,MMW,D,58,0921,MODO,1,1,1,,,,,,1,,bottomland,>10 years,cicadas very mild,74,0,1,0,"2 loud dogs running around forest at survey point right before we arrived, owner put them in her car and drove away as we drove up."
+8/24/2018,MMW,D,58,0921,BLJA,,1,,,,,,,1,,bottomland,>10 years,cicadas very mild,74,0,1,0,"2 loud dogs running around forest at survey point right before we arrived, owner put them in her car and drove away as we drove up."
+8/24/2018,MMW,D,58,0921,RHWO,,,,1,1,,,1,,,bottomland,>10 years,cicadas very mild,74,0,1,0,"2 loud dogs running around forest at survey point right before we arrived, owner put them in her car and drove away as we drove up."
+8/24/2018,MMW,D,58,0921,RCWO,,,,1,1,,,1,,,bottomland,>10 years,cicadas very mild,74,0,1,0,"2 loud dogs running around forest at survey point right before we arrived, owner put them in her car and drove away as we drove up."
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,SMC,D,58,0921,CARW,1,,,,,,1,,,,bottomland,>10 years,cicadas very mild,74,0,1,0,"2 loud dogs running around forest at survey point right before we arrived, owner put them in her car and drove away as we drove up."
+8/24/2018,SMC,D,58,0921,MODO,1,,1,1,,,,1,,,bottomland,>10 years,cicadas very mild,74,0,1,0,"2 loud dogs running around forest at survey point right before we arrived, owner put them in her car and drove away as we drove up."
+8/24/2018,SMC,D,58,0921,EATO,,1,,,,,,1,,,bottomland,>10 years,cicadas very mild,74,0,1,0,"2 loud dogs running around forest at survey point right before we arrived, owner put them in her car and drove away as we drove up."
+8/24/2018,SMC,D,58,0921,RHWO,,1,1,,1,,,,1,,bottomland,>10 years,cicadas very mild,74,0,1,0,"2 loud dogs running around forest at survey point right before we arrived, owner put them in her car and drove away as we drove up."
+8/24/2018,SMC,D,58,0921,RHWO,,,,1,,,,1,,,bottomland,>10 years,cicadas very mild,74,0,1,0,"2 loud dogs running around forest at survey point right before we arrived, owner put them in her car and drove away as we drove up."
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,MMW,D,326,0937,CARW,,,1,,,,,,1,,upland savanna,w/in 2 years,,74,0,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,SMC,D,326,0937,,,,,,,,,,,,upland savanna,w/in 2 years,,74,0,1,0,NONE
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,MMW,D,199,0949,TUVU,1,,,,,,,,,1,streamhead pocosin,"SE=w/in 1 year, NE and NW=2 years, SW=2 years",mild water noise but birds not active anyways,76,0,1,0,TUVU far up
+8/24/2018,MMW,D,199,0949,NOCA,,,,1,1,,,1,,,streamhead pocosin,"SE=w/in 1 year, NE and NW=2 years, SW=2 years",mild water noise but birds not active anyways,76,0,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,SMC,D,199,0949,WBNU,,,1,,,,1,,,,streamhead pocosin,"SE=w/in 1 year, NE and NW=2 years, SW=2 years",mild water noise but birds not active anyways,76,0,1,0,
+8/24/2018,SMC,D,199,0949,NOCA,,,,1,,,1,,,,streamhead pocosin,"SE=w/in 1 year, NE and NW=2 years, SW=2 years",mild water noise but birds not active anyways,76,0,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,MMW,D,72,1010,EAWP,1,1,,1,1,,,,1,,bottomland,>10 years at bottomland,"car traffic 65mph Plank rd right at survey point, terrible location, 23 cars passed during 5 minute count.  Also cicadas.",77,0,1,0,SMC had better view of swamp across Plank rd and saw lots more birds over there than i did.
+8/24/2018,MMW,D,72,1010,CARW,1,,,,,,,1,,,bottomland,>10 years at bottomland,"car traffic 65mph Plank rd right at survey point, terrible location, 23 cars passed during 5 minute count.  Also cicadas.",77,0,1,0,SMC had better view of swamp across Plank rd and saw lots more birds over there than i did.
+8/24/2018,MMW,D,72,1010,SUTA,,1,,,1,,,1,,,bottomland,>10 years at bottomland,"car traffic 65mph Plank rd right at survey point, terrible location, 23 cars passed during 5 minute count.  Also cicadas.",77,0,1,0,SMC had better view of swamp across Plank rd and saw lots more birds over there than i did.
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,SMC,D,72,1010,CARW,1,,,,,,,1,,,bottomland,>10 years at bottomland,"car traffic 65mph Plank rd right at survey point, terrible location, 23 cars passed during 5 minute count.  Also cicadas.",77,0,1,0,
+8/24/2018,SMC,D,72,1010,EAWP,1,,,,,,,1,,,bottomland,>10 years at bottomland,"car traffic 65mph Plank rd right at survey point, terrible location, 23 cars passed during 5 minute count.  Also cicadas.",77,0,1,0,
+8/24/2018,SMC,D,72,1010,NOFL,,,1,,,,,,1,,bottomland,>10 years at bottomland,"car traffic 65mph Plank rd right at survey point, terrible location, 23 cars passed during 5 minute count.  Also cicadas.",77,0,1,0,
+8/24/2018,SMC,D,72,1010,RBWO,,,1,,,,,,1,,bottomland,>10 years at bottomland,"car traffic 65mph Plank rd right at survey point, terrible location, 23 cars passed during 5 minute count.  Also cicadas.",77,0,1,0,
+8/24/2018,SMC,D,72,1010,AMRO,,,1,,,,,,1,,bottomland,>10 years at bottomland,"car traffic 65mph Plank rd right at survey point, terrible location, 23 cars passed during 5 minute count.  Also cicadas.",77,0,1,0,
+8/24/2018,SMC,D,72,1010,TUVU,,,,1,,,,,,1,bottomland,>10 years at bottomland,"car traffic 65mph Plank rd right at survey point, terrible location, 23 cars passed during 5 minute count.  Also cicadas.",77,0,1,0,
+8/24/2018,SMC,D,72,1010,RTHU,,,,1,,1,,,,,bottomland,>10 years at bottomland,"car traffic 65mph Plank rd right at survey point, terrible location, 23 cars passed during 5 minute count.  Also cicadas.",77,0,1,0,
+8/24/2018,SMC,D,72,1010,SUTA,,,,,1,,,1,,,bottomland,>10 years at bottomland,"car traffic 65mph Plank rd right at survey point, terrible location, 23 cars passed during 5 minute count.  Also cicadas.",77,0,1,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,MMW,D,44,1032,CHSP,1,,,1,1,1,,,,,upland savanna/open field,> 5 years,"airplane takes off from ~200 m away, active",75,0,2,0,"savanna on one side, open field drop zone on other"
+8/24/2018,MMW,D,44,1032,COYE,,1,,,,,1,,,,upland savanna/open field,> 5 years,"airplane takes off from ~200 m away, active",75,0,2,0,"savanna on one side, open field drop zone on other"
+8/24/2018,MMW,D,44,1032,TUVU,,1,,,,,,,,1,upland savanna/open field,> 5 years,"airplane takes off from ~200 m away, active",75,0,2,0,"savanna on one side, open field drop zone on other"
+8/24/2018,MMW,D,44,1032,TUVU,,1,,,,,,,,1,upland savanna/open field,> 5 years,"airplane takes off from ~200 m away, active",75,0,2,0,"savanna on one side, open field drop zone on other"
+8/24/2018,MMW,D,44,1032,CARW,,,1,,,1,,,,,upland savanna/open field,> 5 years,"airplane takes off from ~200 m away, active",75,0,2,0,"savanna on one side, open field drop zone on other"
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,SMC,D,44,1032,CHSP,1,,,,,1,,,,,upland savanna/open field,> 5 years,"airplane takes off from ~200 m away, active",75,0,2,0,"savanna on one side, open field drop zone on other"
+8/24/2018,SMC,D,44,1032,TUVU,,1,,,,,,,,1,upland savanna/open field,> 5 years,"airplane takes off from ~200 m away, active",75,0,2,0,"savanna on one side, open field drop zone on other"
+8/24/2018,SMC,D,44,1032,CARW,,1,,,,,1,,,,upland savanna/open field,> 5 years,"airplane takes off from ~200 m away, active",75,0,2,0,"savanna on one side, open field drop zone on other"
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,MMW,D,41,1054,TUVU,1,,,,,,,,,1,bottomland,> 5 years,11 cars pass during survey on Chicken road going 50-55 mph on pavement right at point,77,10,2,0,
+8/24/2018,MMW,D,41,1054,MODO,1,,,,,,,,,1,bottomland,> 5 years,11 cars pass during survey on Chicken road going 50-55 mph on pavement right at point,77,10,2,0,
+8/24/2018,MMW,D,41,1054,DOWO,,1,,,1,,1,,,,bottomland,> 5 years,11 cars pass during survey on Chicken road going 50-55 mph on pavement right at point,77,10,2,0,
+8/24/2018,MMW,D,41,1054,MODO,,,1,,,,,,,1,bottomland,> 5 years,11 cars pass during survey on Chicken road going 50-55 mph on pavement right at point,77,10,2,0,
+,,,,,,,,,,,,,,,,,,,,,,,
+8/24/2018,SMC,D,41,1054,MODO,1,,,,,,,,,1,bottomland,> 5 years,11 cars pass during survey on Chicken road going 50-55 mph on pavement right at point,77,10,2,0,
+8/24/2018,SMC,D,41,1054,DOWO,1,,,,1,,,1,,,bottomland,> 5 years,11 cars pass during survey on Chicken road going 50-55 mph on pavement right at point,77,10,2,0,
+8/24/2018,SMC,D,41,1054,COYE,,,1,,,,1,,,,bottomland,> 5 years,11 cars pass during survey on Chicken road going 50-55 mph on pavement right at point,77,10,2,0,
+8/24/2018,SMC,D,41,1054,DOWO,,,,,1,,1,,,,bottomland,> 5 years,11 cars pass during survey on Chicken road going 50-55 mph on pavement right at point,77,10,2,0,

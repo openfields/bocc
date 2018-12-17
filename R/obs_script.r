@@ -1,3 +1,5 @@
+read.csv('./data/wilcox2017.csv', header=TRUE) -> d17
+
 source('./R/spselect.r')
 spselect(code = "EATO", df = d17)
 

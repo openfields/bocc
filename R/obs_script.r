@@ -60,7 +60,7 @@ distobs(sp.mat=SP.EATO, dc=60) -> SP.EATO60
 # need to get list of unique points that were surveyed
 # need to write observation data into a matrix
 # some possibly helpful information: https://rstudio-pubs-static.s3.amazonaws.com/52230_5ae0d25125b544caab32f75f0360e775.html
-
+# after getting the data together, melt and cast to get final matrix - row names are points, column names are observers
 
 
 

@@ -62,7 +62,22 @@ distobs(sp.mat=SP.EATO, dc=60) -> SP.EATO60
 # some possibly helpful information: https://rstudio-pubs-static.s3.amazonaws.com/52230_5ae0d25125b544caab32f75f0360e775.html
 # after getting the data together, melt and cast to get final matrix - row names are points, column names are observers
 
+# join: do inner join, then do left outer join, take difference
 
 
+
+unique(SP.EATO60$Point) -> p60
+unique(na.omit(d17$Point)) -> pall
+match(p60, pall) -> pmatch
+length(pall) - length(pmatch) -> pext
+matrix(0, nrow = pext, ncol = 5) -> exob
+cbind(pall[-pmatch], exob) -> no.obs
+as.data.frame(no.obs) -> no.obs
+
+# rbind no.obs and the selected stuff from SP.EATO60
+incl.ind <- c(4,7:11)
+SP.EATO60[,incl.ind] -> b.obs
+names(no.obs) <- names(b.obs)
+rbind(b.obs, no.obs) -> obs.dat # gives observation data, need to bring along the observers and the dates too.....
 
 

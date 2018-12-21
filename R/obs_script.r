@@ -80,4 +80,6 @@ SP.EATO60[,incl.ind] -> b.obs
 names(no.obs) <- names(b.obs)
 rbind(b.obs, no.obs) -> obs.dat # gives observation data, need to bring along the observers and the dates too.....
 
+# match the no.obs points with the original d17
+match(no.obs$Point, d17$Point) -> d17.no.obs
 

@@ -132,7 +132,7 @@ data_ext <- cbind(broad_ext, int_ext, fine_ext) # Combines scales into single df
 data_ext2 <- data_ext[order(data_ext$fine, data_ext$intermediate, data_ext$broad),]
 # orders data frame by hierarchical grids
 
-colnames(data_ext2)<-("broad.id", "var1_broad", "var2_broad", "intermediate.id", "var1_int","var2_int", "fine.id”,”var1_fine”,”var2_fine”)    # names columns                   
+colnames(data_ext2)<-c("broad.id", "var1_broad", "var2_broad", "intermediate.id", "var1_int","var2_int", "fine.id", "var1_fine", "var2_fine")    # names columns                   
                       
                       write.csv(data_ext2, file="file path covariate data")
                       
@@ -209,7 +209,7 @@ colnames(data_ext2)<-("broad.id", "var1_broad", "var2_broad", "intermediate.id",
                       zz <- z.init(Y, R, Z)
                       
                       ## Create list of names for objects that will be used in model
-                      data <- list ( "Y","R","Z","zz", "broad", "intermediate", "fine","survey", "var1_broad","var2_broad", "var1_int","var2_int",  "var1_fine","var2_fine", “nsurvey”)
+                      data <- list ( "Y","R","Z","zz", "broad", "intermediate", "fine","survey", "var1_broad","var2_broad", "var1_int","var2_int",  "var1_fine","var2_fine", "nsurvey")
                       
                       ## Set initial values
                       inits <- function()
